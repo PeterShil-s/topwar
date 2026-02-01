@@ -1,172 +1,1704 @@
-anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&sni=gw.alicdn.com&insecure=1&allowInsecure=1&type=tcp#jp日本
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc#kr韩国
-hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:12345?sni=us.jljd.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#us美国
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=%2F%3Fed#un未知
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.164.120:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#de德国
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#de德国
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.164.43:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#de德国
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=Telegram-SellV2rayBot--Telegram-SellV2rayBot&serviceName=grpc&mode=gun#de德国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:38696?#cn中国
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=%2F%3Fed#un未知
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&spx=%2F---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=grpc#kr韩国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:12599?#cn中国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:34680?#cn中国
-vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ru俄罗斯
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:57327?#cn中国
-vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=random&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&sid=fd88bd27db4cc661&type=tcp&headerType=none#ru俄罗斯
-vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&sid=fd88bd27db4cc661&type=tcp&headerType=none#ru俄罗斯
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:40017?#cn中国
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=t.me%252Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#hk香港
-vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#us美国
-vless://0b241646-64d0-4837-a4b1-28dd97e59089@104.18.32.47:80?encryption=none&security=none&type=ws&host=GLORiOUS-MouNtaiNk9cZ8WOv4a.EcotourISs.co.uK.&path=%2F%3Fed#un未知
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#md未知
-trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp=chrome&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2&spx=%2F&type=grpc#us美国
-vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#us美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTc2MDc2ZS0yYzFiLTQ5YWItYjEzOC0xNTU5ZWU4NGI4YTQ@gsgsu.izenny.com:59341?#cn中国
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678&type=tcp&headerType=none#us美国
-trojan://BxceQaOe@219.76.135.98:443?security=tls&sni=219.76.135.98&insecure=1&allowInsecure=1&type=tcp&headerType=none#hk香港
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#il未知
-vless://be38fcfb-6bef-4bad-b0ec-3bfd0a8d6265@www.speedtest.net:80?encryption=none&security=none&sni=3h-kAzakhStan1.09vPn.cOm.&type=ws&host=3h-kAzakhStan1.09vPn.cOm.&path=%2Fvless%2F%3FJoinBede--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY%3Fed%3D2560#un未知
-vless://be38fcfb-6bef-4bad-b0ec-3bfd0a8d6265@www.speedtest.net:80?encryption=none&security=none&sni=3h-kAzakhStan1.09vPn.cOm.&type=ws&host=3h-kAzakhStan1.09vPn.cOm.&path=%2Fvless%2F%3FJoinBede--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY#un未知
-vless://be38fcfb-6bef-4bad-b0ec-3bfd0a8d6265@www.speedtest.net:80?encryption=none&security=none&type=ws&host=3h-kAzakhStan1.09vPn.cOm.&path=%2Fvless%2F%3FJoinBede--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY#un未知
-trojan://BxceQaOe@219.76.135.98:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#hk香港
-trojan://BxceQaOe@58.152.53.45:443?security=tls&sni=t.me%2Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#hk香港
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&security=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#un未知
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&sni=mitivpn.global.ssl.fastly.net&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#us美国
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&sni=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#us美国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201?#ca加拿大
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjA5NDZhZmM1OTE4YzQ5@57.129.95.232:11201?#de德国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYmJjYmZkNTMzMDQ3NWQx@141.95.106.215:11201?#de德国
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#us美国
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.2.59:8080?encryption=none&security=none&type=ws&host=weathered-firefly-8a0f.41c3bce2b6.workers.dev&path=%2FeyJqdW5rIjoibzE1WnlVYklpUVdtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#un未知
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.53.123:8880?encryption=none&security=none&type=ws&host=weathered-firefly-8a0f.41c3bce2b6.workers.dev&path=%2FeyJqdW5rIjoiYmVYZzFsZ3djRWRraGdTNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#un未知
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.17.45:8080?encryption=none&security=none&type=ws&host=weathered-firefly-8a0f.41c3bce2b6.workers.dev&path=%2FeyJqdW5rIjoiWEdseXZwQ1ZIbGR1dUJzTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#un未知
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.2.59:8080?encryption=none&security=none&type=ws&host=weathered-firefly-8a0f.41c3bce2b6.workers.dev&path=%2FeyJqdW5rIjoibzE1WnlVYklpUVdtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#un未知
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.2.59:8080?encryption=none&security=none&fp=chrome&type=ws&host=weathered-firefly-8a0f.41c3bce2b6.workers.dev&path=%2FeyJqdW5rIjoibzE1WnlVYklpUVdtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#un未知
-vless://29ff2954-dfea-4d20-8089-059cfa861453@172.64.229.16:443?encryption=none&security=tls&sni=2new.ssdxz.cn&insecure=0&allowInsecure=0&type=ws&host=2new.ssdxz.cn&path=%2F%3Fed%3D2560#un未知
-vless://026d15a6-0b97-4883-a229-ec4325afb0de@www.speedtest.net:80?encryption=none&security=none&sni=www.speedtest.net&type=ws&host=023.electrocellco-cf-023.workers.dev&path=%2FeyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#un未知
-vless://d6ff33a6-03bf-4338-8a63-62ab284a9466@xn--b6gac.eu.org:8080?encryption=none&security=none&type=ws&host=feng4.l1ut8bi9.workers.dev&path=%2F%3Fed%3D2048#un未知
-vmess://eyJ2IjogIjIiLCAicHMiOiAidW5cdTY3MmFcdTc3ZTUiLCAiYWRkIjogIjU0ZC1iRDBELUMzRjExMUQwYjg3OS42NjQuUXpaLmlvIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjA1MDdmYmNkLWI5ODMtNDNhNy04ZTFkLTJjNTYxOTYwYWQ0ZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiNTRELWJkMEQtYzNmMTExRDBiODc5LjY2NC5RWlouaU8iLCAicGF0aCI6ICIvcHl5WTRaVlR5SlYzdnI5bm9PaG4iLCAidGxzIjogInRscyIsICJzbmkiOiAiNTRkLWJEMEQtQzNGMTExRDBiODc5LjY2NC5RelouaW8iLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAidW5cdTY3MmFcdTc3ZTUiLCAiYWRkIjogIjRENDEtYjUxMC1GYzM1ZjJEN0VDZDcuNjY0LnF6ei5pbyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwNTA3ZmJjZC1iOTgzLTQzYTctOGUxZC0yYzU2MTk2MGFkNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjRENDEtYjUxMC1mQzM1ZjJkN2VjZDcuNjY0LnFaei5pbyIsICJwYXRoIjogIi9weXlZNFpWVHlKVjN2cjlub09obiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICI0RDQxLWI1MTAtZkMzNWYyZDdlY2Q3LjY2NC5xWnouaW8iLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
-trojan://42bbf526-5530-470a-aeec-3b919b21c58d@5.39.249.146:443?security=tls&sni=0000.hkvip.ip-ddns.com&insecure=1&allowInsecure=1&type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560#de德国
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29#es西班牙
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&path=%2F#es西班牙
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201?#il未知
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=1&allowInsecure=1&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29#es西班牙
-vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@172.67.163.51:443?encryption=none&security=tls&sni=4d41-B510-Fc35f2D7EcD7.664.QzZ.IO&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=4d41-B510-FC35F2D7ecd7.664.Qzz.io&path=%2Fa0XhDU2Cxr9noOhn#un未知
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#es西班牙
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@154.12.190.136:443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#jp日本
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@115.94.122.118:50001?encryption=none&security=tls&sni=l.ayovo.netlib.re&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#kr韩国
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@v1.dabache.top:2083?encryption=none&security=tls&sni=wk1.f1w.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=wk1.f1w.de5.net&path=%2F%3Fed%3D2560#un未知
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@bestcf.030101.xyz:443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#un未知
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#un未知
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@8.35.211.41:8443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#un未知
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.227.134:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#un未知
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZGVcdTVmYjdcdTU2ZmQiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@104.19.41.232:443?encryption=none&security=tls&sni=snip.ere.de5.net&insecure=0&allowInsecure=0&type=ws&host=snip.ere.de5.net&path=%2F%3Fed%3D2560#un未知
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.227.134:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2Fx-aniu%2F%3Fed%3D2560#un未知
-trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#hk香港
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@155.248.163.243:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#jp日本
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@45.14.247.159:2053?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#gb英国
-vless://c33275fd-a4fa-470d-90e4-55da39d849a8@am-ircdn.panbehpanel.ir:443?encryption=none&security=tls&sni=panbehpanel.ir&insecure=0&allowInsecure=0&type=tcp&headerType=none#nl荷兰
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@43.128.249.230:8443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#jp日本
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@57.128.182.21:8443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#gb英国
-vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none#sg新加坡
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?encryption=none&security=tls&sni=ficdn2.suio.me&insecure=0&allowInsecure=0&type=tcp&headerType=none#fi未知
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@129.150.32.171:6443?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#sg新加坡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669?#gb英国
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@portal.ninemakeda.cfd:43669?#gb英国
-vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?encryption=none&security=none&type=ws&host=NICE-MaNAgEmeNts6CV0rMC2T.ONeEat.co.&path=%2F%3Fed#un未知
-vless://6979dbcd-de74-d99c-1b11-783cd233cca8@60.248.139.106:10428?encryption=none&security=tls&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#tw台湾
-trojan://f0975e8c-b373-43f7-a7b2-72e789d4f978@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://df518e4c-e243-4215-8f9e-f280a2799559@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://7a362c32-20bb-448c-8186-511747422068@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://617cdaa0-9487-4bc2-b961-1e7cc8f02f3e@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://af81c1d8-1f0b-444b-8fbb-0771a8a81357@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://44cb91f4-ee1c-41c7-bb67-bccca5f72927@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://fa016a16-c353-4982-9bc9-4278b984e650@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://ab1c930d-2a9d-4205-b9f5-e9101f2e3dae@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://b061d8e5-6f08-4361-903a-82e9bdc062ba@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://ef7df0c5-2479-4976-b16e-61803e4be4d1@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://c02694a5-3d42-4819-84a0-9417789e64da@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://f2f60712-31dc-44ea-8d2b-7192f95f7aa4@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://37a29d5d-f543-4405-b41d-3cd782b4e7e6@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://46b22c71-65b6-4384-9539-4a6fb4773095@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://178c5f12-9129-4970-9a11-b35dad4ecb6a@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#tw台湾
-trojan://7cfa5070-aff4-47fe-8f1f-3150060c385a@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://ac9a4236-a2c2-44d3-a9a7-d15196129b6b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://8dee1a1c-472f-422c-a771-88a852c51ba0@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://e00789cc-368a-4dd5-ae95-3139d9706dd7@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://7080f043-4526-4de5-8411-891c8ca07177@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://0d8f400f-702b-42f3-b651-2135088e7db7@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://b5fd2d9f-d212-42ed-b77b-1fdb489fe35c@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://4b61479b-525a-47a9-bc9d-fa412cfea60b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://3891775d-f1ba-43e6-97c1-f72b300b8975@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://b2e4b979-b198-47e5-8c6c-f4b919e34eb4@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://81c714c9-098e-45be-83ae-8f144eca7997@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://efd43015-7227-49de-ae2b-594f093881a1@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://c28fa6c4-444a-467e-aeca-9b9772d56cc7@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://acdb5f0f-ec42-4027-9ca2-a209d274b60a@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://c6479f4b-2012-4a31-9a82-8e3d8b5812ca@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://89a7d54e-e2a8-479f-8445-1bdac3719107@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://ca01f045-38de-4e10-bf99-f9c97abe8754@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-vless://5cd276be-1988-4416-b9dd-0d91cf857dee@52.192.110.140:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-jp02.download.pikoport.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#jp日本
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@nl1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.philips.com&fp=qq&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6&type=tcp&headerType=none#nl荷兰
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.148.105.138:2096?encryption=none&security=tls&sni=sni.111000.dns.army&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#ru俄罗斯
-hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@kr2.miyazono-kaori.com:42382?sni=kr2.miyazono-kaori.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rVYx28ncsHBinunc#kr韩国
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@nl2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.philips.com&fp=qq&pbk=Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI&sid=883d8dad940eb1&type=tcp&headerType=none#nl荷兰
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZGVcdTVmYjdcdTU2ZmQiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&headerType=none#it意大利
-vmess://eyJ2IjogIjIiLCAicHMiOiAiY25cdTRlMmRcdTU2ZmQiLCAiYWRkIjogIm9zcy00LnFxYTY3OC5jb20iLCAicG9ydCI6ICI0NzA4MSIsICJpZCI6ICI5ZjhjMTIyZC01Yjg2LTRjMTktYWY4Ny02NGY0NThhODgyMjMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.172.115:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#de德国
-vmess://eyJ2IjogIjIiLCAicHMiOiAiY25cdTRlMmRcdTU2ZmQiLCAiYWRkIjogInR1bm5lbDEucXFhNjc4LmNvbSIsICJwb3J0IjogIjQ3MDgzIiwgImlkIjogIjlmOGMxMjJkLTViODYtNGMxOS1hZjg3LTY0ZjQ1OGE4ODIyMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
-vless://9042affd-0ad3-4014-adbc-e52f00891ea2@sakura.bunnywaffle.org:26978?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&sid=28bf&type=tcp&headerType=none#us美国
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.219:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#nl荷兰
-vless://5cd276be-1988-4416-b9dd-0d91cf857dee@jp02.cbd12403-7946-4bbc-8127-2d9e5f1d50bc.genshinimpact.cyou:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn-jp02.download.pikoport.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#jp日本
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@us2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=firefox&pbk=_TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc&sid=9613864900a8f12d&type=tcp&headerType=none#us美国
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@94.103.1.230:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#nl荷兰
-vless://c94f3cf9-7aa5-4b6d-b153-baea45280c64@104.18.32.47:443?encryption=none&security=tls&sni=x1MKkQTEJX0hRuPvUN3tUIAmtffMutnLGgNRIjSXOW7JZV4K.sangar.net&insecure=0&allowInsecure=0&type=ws&path=%2Ftest#un未知
-vless://517c776e-afbf-4749-9643-73c3ea26b905@192.200.160.9:2083?encryption=none&security=tls&sni=xiz20.wizard2shop.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#us美国
-vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&sid=28bf&type=tcp&headerType=none#us美国
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.215.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#nl荷兰
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.215.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#nl荷兰
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ru俄罗斯
-vless://c94f3cf9-7aa5-4b6d-b153-baea45280c64@v3.dabache.top:443?encryption=none&security=tls&sni=x1MKkQTEJX0hRuPvUN3tUIAmtffMutnLGgNRIjSXOW7JZV4K.sangar.net&insecure=0&allowInsecure=0&type=ws&host=x1MKkQTEJX0hRuPvUN3tUIAmtffMutnLGgNRIjSXOW7JZV4K.sangar.net&path=%2Ftest#un未知
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&insecure=0&allowInsecure=0&type=ws&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560#us美国
-vless://60b06b38-77cc-470a-a3f4-2bcffce72e31@pypi.org:80?encryption=none&security=none&type=ws&host=sabzeu.global.ssl.fastly.net&path=%2Fdownload#us美国
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?encryption=none&security=none&type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed#un未知
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ca.adobe-connect.top&path=%2F#un未知
-vless://5daf1be0-eee4-4e94-8c5b-8d72ea26eb4a@23.148.20.100:30003?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mensura.cdn-apple.com&fp=safari&pbk=hDXY23v5S_49APGptqI_AKB64vUDshlUY1N47AZAogs&sid=5c705576253d25&type=tcp&headerType=none#us美国
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&type=tcp&headerType=none&host=www.amazon.com#us美国
-trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102:443?security=tls&sni=107.174.82.102.sslip.io&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&path=%2FgXKGj8a1tp1nNbZEcRugowKV#us美国
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223?#cn中国
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&sni=xiz20.wizard2shop.org&fp=safari&insecure=0&allowInsecure=0&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560#us美国
-vmess://eyJ2IjogIjIiLCAicHMiOiAiY25cdTRlMmRcdTU2ZmQiLCAiYWRkIjogInR1bm5lbDIucXFhNjc4LmNvbSIsICJwb3J0IjogIjQ3MDg0IiwgImlkIjogIjlmOGMxMjJkLTViODYtNGMxOS1hZjg3LTY0ZjQ1OGE4ODIyMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.172:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ru俄罗斯
-vless://f3f6f19f-c68a-462c-a534-9b388663fffa@94.141.123.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.mcqueenconnection.ru&fp=chrome&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=f5390f7c74c4ea5c&type=tcp&headerType=none#de德国
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&sni=xiz20.wizard2shop.org&insecure=0&allowInsecure=0&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560#us美国
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#cy未知
-vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none&host=live.com#de德国
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#nl荷兰
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.82.73.196:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#nl荷兰
-vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#de德国
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&headerType=none#ru俄罗斯
-vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80?encryption=none&security=none&type=ws&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&path=%2F%3Fed#un未知
-vmess://eyJ2IjogIjIiLCAicHMiOiAidm5cdThkOGFcdTUzNTciLCAiYWRkIjogIjE2MC4xOTEuMjQ1LjQ4IiwgInBvcnQiOiAiNTg2MjMiLCAiaWQiOiAiOGQ3NDgwM2UtYWE3NC00N2VmLWUzYWUtMjNlZWFhOTZmODlkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vless://2b0307a8-fc48-4e36-ba6c-36cc0430dce3@spdnet-v3.team-pluss.com:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&sid=78523b486884cc4d&type=tcp&headerType=none#de德国
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bp.com&fp=ios&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&sid=d923&type=tcp&headerType=none#gb英国
-vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&headerType=none#ru俄罗斯
-vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ip.ali.lat:443?encryption=none&security=tls&sni=temp2.ali.lat&insecure=0&allowInsecure=0&type=ws&host=temp2.ali.lat&path=%2F#us美国
-trojan://44cb91f4-ee1c-41c7-bb67-bccca5f72927@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://ac9a4236-a2c2-44d3-a9a7-d15196129b6b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://fa016a16-c353-4982-9bc9-4278b984e650@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://7080f043-4526-4de5-8411-891c8ca07177@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://df518e4c-e243-4215-8f9e-f280a2799559@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://4b61479b-525a-47a9-bc9d-fa412cfea60b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://7a362c32-20bb-448c-8186-511747422068@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://f2f60712-31dc-44ea-8d2b-7192f95f7aa4@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-trojan://8dee1a1c-472f-422c-a771-88a852c51ba0@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#tw台湾
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?encryption=none&security=tls&sni=ficdn2.suio.me&insecure=0&allowInsecure=0&type=tcp&headerType=none#fi未知
-vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none#sg新加坡
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZGVcdTVmYjdcdTU2ZmQiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-vless://0b241646-64d0-4837-a4b1-28dd97e59089@104.18.32.47:80?encryption=none&security=none&type=ws&host=GLORiOUS-MouNtaiNk9cZ8WOv4a.EcotourISs.co.uK.&path=%2F%3Fed#un未知
+<!DOCTYPE html>#un未知
+<html lang='zh-CN'>#un未知
+<head>#un未知
+<script>#un未知
+// 立即应用主题，避免页面闪烁 (FOUC)#un未知
+(function() {#un未知
+function getCookieTheme() {#un未知
+var match = document.cookie.match(/theme=(light|dark|system)/);#un未知
+return match ? match[1] : null;#un未知
+}#un未知
+function getCurrentTheme() {#un未知
+var cookieTheme = getCookieTheme();#un未知
+var savedTheme = localStorage.getItem('theme');#un未知
+// 优先使用 cookie 中的 theme#un未知
+if (cookieTheme) {#un未知
+// 如果 localStorage 里没有，就补回去#un未知
+if (!savedTheme) {#un未知
+localStorage.setItem('theme', cookieTheme);#un未知
+return cookieTheme;#un未知
+// 如果 cookie 中没有 theme，则使用 localStorage 中的 theme#un未知
+savedTheme = savedTheme && ['light', 'dark', 'system'].includes(savedTheme) ? savedTheme : 'system'; // 默认跟随系统#un未知
+return savedTheme;#un未知
+var savedTheme = getCurrentTheme();#un未知
+// 检测系统是否为暗黑模式#un未知
+function isSystemDarkMode() {#un未知
+return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;#un未知
+if (savedTheme === 'system') {#un未知
+// 系统模式：移除覆盖类，让CSS媒体查询自动处理
+document.documentElement.classList.remove('dark-mode-override');#un未知
+document.documentElement.classList.remove('dark-mode');#un未知
+} else {#un未知
+// 手动模式：添加覆盖类，禁用媒体查询
+document.documentElement.classList.add('dark-mode-override');#un未知
+if (savedTheme === 'dark') {#un未知
+document.documentElement.classList.add('dark-mode');#un未知
+})();#un未知
+</script>#un未知
+<title>ywy_2026.txt · PeterShil/my_data_config - Gitee.com</title>#un未知
+<meta content='on' http-equiv='x-dns-prefetch-control'>#un未知
+<link href='//e.gitee.com' rel='dns-prefetch'>#un未知
+<link href='//files.gitee.com' rel='dns-prefetch'>#un未知
+<link href='//toscode.gitee.com' rel='dns-prefetch'>#un未知
+<link href='https://cn-assets.gitee.com' rel='dns-prefetch'>#un未知
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" />#un未知
+<link rel="canonical" href="https://gitee.com/petershill/topwar2026" />#un未知
+<meta content='gitee.com/petershill/topwar2026 git https://gitee.com/petershill/topwar2026.git' name='go-import'>#un未知
+<meta charset='utf-8'>#un未知
+<meta content='always' name='referrer'>#un未知
+<meta content='Gitee' property='og:site_name'>#un未知
+<meta content='Object' property='og:type'>#un未知
+<meta content='https://gitee.com/petershill/topwar2026/blob/master/ywy_2026.txt' property='og:url'>#un未知
+<meta content='https://gitee.com/static/images/logo_themecolor_circle.png' itemprop='image' property='og:image'>#un未知
+<meta content='ywy_2026.txt · PeterShil/my_data_config - Gitee.com' itemprop='name' property='og:title'>#un未知
+<meta content='Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。' property='og:description'>#un未知
+<meta content='码云,Gitee,代码托管,Git,Git@OSC,Gitee.com,开源,内源,项目管理,版本控制,开源代码,代码分享,项目协作,开源项目托管,免费代码托管,Git代码托管,Git托管服务' name='Keywords'>#un未知
+<meta content='Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。' itemprop='description' name='Description'>#un未知
+<meta content='pc,mobile' name='applicable-device'>#un未知
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />#un未知
+<meta name="csrf-param" content="authenticity_token" />#un未知
+<meta name="csrf-token" content="FVR03Eqwhq8Suu6jlWVhy7xFqbEm6mg8NEwdV1PNYwgmY0lHepZszfcjDIf7F6KMMU0peWmg0DxCCtVeT5O5iA==" />#un未知
+<link rel="stylesheet" media="all" href="https://cn-assets.gitee.com/assets/application-50261fbeaaedde2f9ba61c0bb0c5756c.css" />#un未知
+//<![CDATA[
+window.gon = {};gon.locale="zh-CN";gon.sentry_dsn=null;gon.baidu_register_hm_push=null;gon.info={"controller_path":"blob","action_name":"show","current_user":false};gon.tour_env={"current_user":null,"action_name":"show","original_url":"https://gitee.com/petershill/topwar2026/blob/master/ywy_2026.txt","controller_path":"blob"};gon.http_clone="https://gitee.com/petershill/topwar2026.git";gon.user_project="petershill/topwar2026";gon.manage_branch="管理分支";gon.manage_tag="管理标签";gon.enterprise_id=0;gon.create_reaction_path="/petershill/topwar2026/reactions";gon.ipipe_base_url="https://go-api.gitee.com";gon.artifact_base_url="https://go-repo.gitee.com";gon.gitee_go_remote_url="https://go.gitee.com/assets";gon.gitee_go_active=false;gon.current_project_is_mirror=false;gon.show_repo_comment=false;gon.diagram_viewer_path="https://diagram-viewer.giteeusercontent.com";gon.ent_host="e.gitee.com";gon.ref="master";#un未知
+//]]>
+<script src="https://cn-assets.gitee.com/assets/application-b36a1a7176b1d1059b07183f65216357.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/assets/lib/jquery.timeago.zh-CN-4a4818e98c1978d2419ab19fabcba740.js"></script>#un未知
+<link rel="stylesheet" media="all" href="https://cn-assets.gitee.com/assets/projects/application-46b94c31ba11ae8c37eacce2bdb5603e.css" />#un未知
+<script src="https://cn-assets.gitee.com/assets/projects/app-ce0afa65fe22112e3faf4a63ebd21a70.js"></script>#un未知
+<script type='text/x-mathjax-config'>#un未知
+MathJax.Hub.Config({#un未知
+tex2jax: {#un未知
+inlineMath: [['$','$'], ['\\(','\\)']],#un未知
+displayMath: [["$$","$$"],["\\[","\\]"]],#un未知
+processEscapes: true,#un未知
+skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],#un未知
+ignoreClass: "container|files",#un未知
+processClass: "markdown-body"#un未知
+});#un未知
+<script src="https://cn-assets.gitee.com/uploads/resources/MathJax-2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>#un未知
+(function () {#un未知
+var messages = {#un未知
+'zh-CN': {#un未知
+addResult: '增加 <b>{term}</b>',#un未知
+count: '已选择 {count}',#un未知
+maxSelections: '最多 {maxCount} 个选择',#un未知
+noResults: '未找到结果',#un未知
+serverError: '连接服务器时发生错误'#un未知
+},#un未知
+'zh-TW': {#un未知
+count: '已選擇 {count}',#un未知
+maxSelections: '最多 {maxCount} 個選擇',#un未知
+noResults: '未找到結果',#un未知
+serverError: '連接服務器時發生錯誤'#un未知
+if (messages[gon.locale]) {#un未知
+$.fn.dropdown.settings.message = messages[gon.locale]#un未知
+}());#un未知
+var userAgent = navigator.userAgent;#un未知
+var isLessIE11 = userAgent.indexOf('compatible') > -1 && userAgent.indexOf('MSIE') > -1;#un未知
+if(isLessIE11){#un未知
+var can_access = ""#un未知
+if (can_access != "true"){#un未知
+window.location.href = "/incompatible.html";#un未知
+document.addEventListener("error", function (ev) {#un未知
+var elem = ev.target;#un未知
+if (elem.tagName.toLowerCase() === 'img') {#un未知
+elem.src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAAAAACIM/FCAAACh0lEQVR4Ae3ch5W0OgyG4dt/mQJ2xgQPzJoM1m3AbALrxzrf28FzsoP0HykJEEAAAUQTBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEkKK0789+GK/I2ezfQB522PnS1qc8pGgXvr4tE4aY0XOUWlGImThWgyCk6DleixzE7qwBkg/MGiDPlVVAyp1VQGrPKiACDhFI6VkF5LmzCki+sg7IwDoglnVAil0IMkeG9CyUiwsxLFUVFzJJOQaKCjFCDN9RXMjIX7W6ztZXZDKKCyn8sWJvH+nca7WHDN9lROlAliPH9iRKCPI4cswFJQWxB46toLQgQ9jhn5QYZA9DOkoMUoQde5YapAxDWkoNYsOQR3KQd9CxUnIQF4S49CB9ENKlBxmDEKsFUgMCCCCAAHIrSF61f6153Ajy8nyiPr8L5MXnmm4CyT2fzN4DUvHZ+ntA2tOQBRBAAAEEEEAAAQQQ7ZBaC6TwSiDUaYHQ2yuB0MN+ft+43whyrs4rgVCjBUKTFshLC6TUAjGA3AxSaYFYLZBOC2RUAsk8h5qTg9QcbEoOsoQhQ2qQhsO5xCD5dgB5JQaZ+KBKGtKecvR81Ic0ZDjByKdDx0rSEDZ/djQbH+bkIdvfJFm98BfV8hD2zprfVdlu9PxVeyYAkciREohRAplJCaRSAplJCcQogTjSAdlyHRBvSAekJR0QRzogA+mADJkOiCPSAPEtqYBshlRAXC43hxix2QiOuEZkVERykGyNo9idIZKE0HO7XrG6OiMShlDWjstVzdPgXtUH9v0CEidAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQP4HgjZxTpdEii0AAAAASUVORK5CYII=";#un未知
+}, true);#un未知
+</head>#un未知
+<script src="//res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>#un未知
+var title = document.title.replace(/( - Gitee| - 码云)$/, '')#un未知
+imgUrl = '';#un未知
+document.addEventListener('DOMContentLoaded', function(event) {#un未知
+var imgUrlEl = document.querySelector('.readme-box .markdown-body > img, .readme-box .markdown-body :not(a) > img');#un未知
+imgUrl = imgUrlEl && imgUrlEl.getAttribute('src');#un未知
+if (!imgUrl) {#un未知
+imgUrlEl = document.querySelector('meta[itemprop=image]');#un未知
+imgUrl = imgUrlEl && imgUrlEl.getAttribute('content');#un未知
+imgUrl = imgUrl || "https://gitee.com/static/images/logo_themecolor_circle.png";#un未知
+wx.config({#un未知
+debug: false,#un未知
+appId: "wxff219d611a159737",#un未知
+timestamp: "1769922998",#un未知
+nonceStr: "2506a86dc434c793e1b8fc914a03ead6",#un未知
+signature: "07c882fa4f2d3d6cb1429bbdde5f8927fa474a21",#un未知
+jsApiList: [#un未知
+'onMenuShareTimeline',#un未知
+'onMenuShareAppMessage'#un未知
+]#un未知
+wx.ready(function () {#un未知
+wx.onMenuShareTimeline({#un未知
+title: title, // 分享标题#un未知
+link: "https://gitee.com/petershill/topwar2026/blob/master/ywy_2026.txt", // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致#un未知
+imgUrl: imgUrl // 分享图标#un未知
+wx.onMenuShareAppMessage({#un未知
+desc: document.querySelector('meta[name=Description]').getAttribute('content'),#un未知
+wx.error(function(res){#un未知
+console.error('err', res)#un未知
+})#un未知
+<body class='blob-site-content blob_show git-project lang-zh-CN'>#un未知
+<header class='common-header fixed noborder' id='git-header-nav'>#un未知
+<div class='ui container'>#un未知
+<div class='ui menu header-menu header-container'>#un未知
+<div class='git-nav-expand-bar'>#un未知
+<i class='iconfont icon-mode-table'></i>#un未知
+</div>#un未知
+<div class='gitee-nav__sidebar'>#un未知
+<div class='gitee-nav__sidebar-container'>#un未知
+<div class='gitee-nav__sidebar-top'>#un未知
+<div class='gitee-nav__avatar-box'></div>#un未知
+<div class='gitee-nav__buttons-box'>#un未知
+<a class="ui button small fluid orange" href="/login">登录</a>#un未知
+<a class="ui button small fluid basic is-register" href="/signup">注册</a>#un未知
+<div class='gitee-nav__sidebar-middle'>#un未知
+<div class='gitee-nav__sidebar-list'>#un未知
+<ul>#un未知
+<li class='gitee-nav__sidebar-item'>#un未知
+<a href="/explore"><i class='iconfont icon-ic-discover'></i>#un未知
+<span class='gitee-nav__sidebar-name'>开源</span>#un未知
+</a></li>#un未知
+<a href="/enterprises"><i class='iconfont icon-ic-enterprise'></i>#un未知
+<span class='gitee-nav__sidebar-name'>企业版</span>#un未知
+<a href="/education"><i class='iconfont icon-ic-education'></i>#un未知
+<span class='gitee-nav__sidebar-name'>高校版</span>#un未知
+<li class='gitee-nav__sidebar-item split-line'></li>#un未知
+<a href="/search"><i class='iconfont icon-ic-search'></i>#un未知
+<span class='gitee-nav__sidebar-name'>搜索</span>#un未知
+<a href="/help"><i class='iconfont icon-help-circle'></i>#un未知
+<span class='gitee-nav__sidebar-name'>帮助中心</span>#un未知
+<a href="/terms"><i class='iconfont icon-file'></i>#un未知
+<span class='gitee-nav__sidebar-name'>使用条款</span>#un未知
+<a href="/about_us"><i class='iconfont icon-issuepx'></i>#un未知
+<span class='gitee-nav__sidebar-name'>关于我们</span>#un未知
+</ul>#un未知
+<div class='gitee-nav__sidebar-bottom'>#un未知
+<div class='gitee-nav__sidebar-close-button'>#un未知
+<i class='fa fa-angle-double-left'></i>#un未知
+<!-- /todo 10周年活动结束后 恢复 -->#un未知
+<div class='item gitosc-logo'>#un未知
+<a href="https://gitee.com"><img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='ui inline image light-mode-img' height='28' src='/static/images/logo-black.svg?t=158106664' title='Gitee - 基于 Git 的代码托管和研发协作平台' width='95'>#un未知
+<img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='ui inline image dark-mode-img' height='28' src='/static/images/logo.svg?t=158106664' title='Gitee - 基于 Git 的代码托管和研发协作平台' width='95'>#un未知
+</a></div>#un未知
+<a title="开源" class="item " href="/explore">开源#un未知
+</a><a title="企业版" class="item " href="/enterprises">企业版#un未知
+</a><a title="高校版" class="item " href="/education">高校版#un未知
+</a><a title="私有云" class="item" target="_blank" href="https://gitee.cn?utm_source=giteecom">私有云#un未知
+</a><a title="模力方舟" class="item" id="gitee-blog" target="_blank" href="https://moark.com/serverless-api/?utm_sources=site_nav"><span>#un未知
+模力方舟#un未知
+</span>#un未知
+<img alt='模力方舟' class='ui inline image' src='/static/images/notification-star.svg' style='transform: translate(-4.6px, -8.8px)' title='模力方舟'>#un未知
+</a><a title="AI 队友" class="item" id="gitee-ai-bot" target="_blank" href="https://gitee.com/ai-teammates"><span>AI 队友</span>#un未知
+</a><div class='center responsive-logo'>#un未知
+<a href="https://gitee.com"><img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='ui inline image' height='24' src='/static/images/logo.svg?t=158106664' title='Gitee - 基于 Git 的代码托管和研发协作平台' width='85'>#un未知
+<img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='ui inline black image' height='24' src='/static/images/logo-black.svg?t=158106664' title='Gitee - 基于 Git 的代码托管和研发协作平台' width='85'>#un未知
+<div class='right menu userbar right-header' id='git-nav-user-bar'>#un未知
+<form class="ui item" id="navbar-search-form" data-text-require="搜索关键字不能少于1个" data-text-filter="搜索格式不正确" data-text-search-site-projects="在全站搜索 %{query} 相关项目" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#un未知
+<input type="hidden" name="type" id="navbar-search-type" />#un未知
+<input type="hidden" name="fork_filter" id="fork_filter" value="on" />#un未知
+<div class='ui search header-search' style='position: relative;'>#un未知
+<input type="text" name="q" id="navbar-search-input" value="" class="prompt" placeholder="搜开源" style="width: 100%; padding-right: 32px; box-sizing: border-box;" />#un未知
+<span class='iconify' data-icon='gitee:search' style='position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size: 16px; color:rgba(0, 0, 0, 0.88); pointer-events: none;'></span>#un未知
+</form>#un未知
+var can_search_in_repo = 1,#un未知
+repo = "VGtSUmVrNUVXVE5PZWtab1RucFplbHBuUFQxaE56WXpaZz09YTc2M2Y=",#un未知
+reponame = "petershill/topwar2026";#un未知
+$(function() {#un未知
+var $search = $('#un未知
+var $form = $('#un未知
+var searchSiteProjectsText = $form.data('text-search-site-projects');#un未知
+$form.on('submit', function(e) {#un未知
+e.preventDefault(); // 防止默认提交#un未知
+var query = $('#un未知
+if (query) {#un未知
+window.location = '/search?fork_filter=on&q=' + encodeURIComponent(query);#un未知
+// 原有的搜索逻辑保持不变#un未知
+$search.search({#un未知
+apiSettings: {#un未知
+url: '/search/relative_project?q=' + encodeURIComponent('{query}'),#un未知
+onResponse: function (res) {#un未知
+if (res && res.status === 200 && res.data) {#un未知
+var query = htmlSafe($search.search('get value'));#un未知
+res.data.map(function (item) {#un未知
+item.path_ns = '/' + item.path_ns;#un未知
+item.icon = 'iconfont icon-project-public';#un未知
+res.data.unshift({#un未知
+name_ns: searchSiteProjectsText.replace('%{query}', "<b class='hl'>" + query + "</b>"),#un未知
+path_ns: '/search?fork_filter=on&q=' + encodeURIComponent(query),#un未知
+icon: 'iconfont icon-search'#un未知
+return res;#un未知
+return { data: [] };#un未知
+fields: {#un未知
+results: 'data',#un未知
+description: 'name_ns',#un未知
+url: 'path_ns',#un未知
+minCharacters: 1,#un未知
+maxResults: 10,#un未知
+searchDelay: 250,#un未知
+showNoResults: false,#un未知
+transition: 'fade'#un未知
+<script src="https://cn-assets.gitee.com/webpacks/gitee_icons-c083090a7801eb0b2ce7.bundle.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/assets/theme_toggle-0c8215e3e0cd891c42ea4226ae882bfb.js"></script>#un未知
+<link rel="stylesheet" media="screen" href="https://cn-assets.gitee.com/assets/fonts/font-awesome-febf886370cf750ab95af17cede1d51f.css" />#un未知
+<a class="item git-nav-user__login-item" href="/login">登录#un未知
+</a><a class="item git-nav-user__register-item" href="/signup">注册#un未知
+</a><script>#un未知
+$('.destroy-user-session').on('click', function() {#un未知
+localStorage.setItem('theme', 'system');#un未知
+$.cookie('access_token', null, { path: '/' });#un未知
+</header>#un未知
+Gitee.initNavbar()#un未知
+Gitee.initRepoRemoteWay()#un未知
+$.cookie('user_locale',null)#un未知
+<div class='fixed-notice-infos'>#un未知
+<div class='all-messages'>#un未知
+<div class='ui info message' id='git-bulletin'>#un未知
+<a href=https://gitee.com/activity/2025opensource/top target='_blank'>Gitee 年度开源项目评选结果正式揭晓，速戳👉</a>#un未知
+<i class='icon remove' id='remove-bulletin'></i>#un未知
+<div class='flash-messages' id='messages-container'></div>#un未知
+var $error_box, alertTip, notify_content, notify_options, template;#un未知
+template = '<div data-notify="container" class="ui {0} message" role="alert">' + '<i data-notify="dismiss" class="close icon"></i>' + '<span data-notify="message">{2}</span>' + '</div>';#un未知
+notify_content = null;#un未知
+notify_options = {};#un未知
+alertTip = '';#un未知
+$error_box = $(".flash_error.flash_error_box");#un未知
+if (notify_options.type === 'error' && $error_box.length > 0 && !$.isEmptyObject(notify_content.message)) {#un未知
+if (notify_content.message === 'captcha_fail') {#un未知
+alertTip = "验证码不正确";#un未知
+} else if (notify_content.message === 'captcha_expired') {#un未知
+alertTip = "验证码已过期，请点击刷新";#un未知
+} else if (notify_content.message === 'not_found_in_database') {#un未知
+alertTip = "帐号或者密码错误";#un未知
+} else if (notify_content.message === 'not_found_and_show_captcha') {#un未知
+} else if (notify_content.message === 'phone_captcha_fail') {#un未知
+alertTip = "手机验证码不通过";#un未知
+alertTip = notify_content.message;#un未知
+return $error_box.html(alertTip).show();#un未知
+} else if (notify_content) {#un未知
+if ("show" === 'third_party_binding') {#un未知
+return $('#un未知
+notify_options.delay = 3000;#un未知
+notify_options.template = template;#un未知
+notify_options.offset = {#un未知
+x: 10,#un未知
+y: 30#un未知
+};#un未知
+notify_options.element = '#un未知
+return $.notify(notify_content, notify_options);#un未知
+}).call(this);#un未知
+var setCookie;#un未知
+setCookie = function(name, value) {#un未知
+$.cookie(name, value, {#un未知
+path: '/',#un未知
+expires: 365#un未知
+$('#un未知
+setCookie('remove_bulletin', "gitee-maintain-1769667011");#un未知
+$('#un未知
+$('#un未知
+setCookie('remove_member_bulletin', "gitee_member_bulletin");#un未知
+$(this).parent().hide();#un未知
+return $('#un未知
+setCookie('remove_gift_bulletin', "gitee-gift-bulletin");#un未知
+function closeMessageBanner(pthis, type, val) {#un未知
+var json = {}#un未知
+val = typeof val === 'undefined' ? null : val#un未知
+$(pthis).parent().remove()#un未知
+if (type === 'out_of_enterprise_member') {#un未知
+json = {type: type, data: val}#un未知
+} else if (type === 'enterprise_overdue') {#un未知
+$.post('/profile/close_flash_tip', json)#un未知
+<div class='project_detail site-content'>#un未知
+<div class='git-project-header'>#un未知
+<div class='ui info icon floating message green' id='fetch-ok' style='display: none'>#un未知
+<div class='content'>#un未知
+<div class='header status-title'>#un未知
+<i class='info icon status-icon'></i>#un未知
+代码拉取完成，页面将自动刷新#un未知
+<div class='ui info icon floating message error' id='fetch-error' style='display: none'>#un未知
+<span class='error_msg'></span>#un未知
+<div class='git-project-header-details'>#un未知
+<div class='git-project-header-container'>#un未知
+<div class='git-project-header-actions'>#un未知
+<div class='ui tiny modal project-donate-modal' id='project-donate-modal'>#un未知
+<i class='iconfont icon-close close'></i>#un未知
+<div class='header'>捐赠</div>#un未知
+捐赠前请先登录#un未知
+<div class='actions'>#un未知
+<a class='ui blank button cancel'>取消</a>#un未知
+<a class='ui orange ok button' href='/login'>前往登录</a>#un未知
+<div class='ui small modal wepay-qrcode'>#un未知
+<div class='header'>#un未知
+扫描微信二维码支付#un未知
+<span class='wepay-cash'></span>#un未知
+<div class='content weqcode-center'>#un未知
+<img id='wepay-qrcode' src=''>#un未知
+<div class='ui cancel blank button'>取消</div>#un未知
+<div class='ui ok orange button'>支付完成</div>#un未知
+<div class='ui mini modal' id='confirm-alipay-modal'>#un未知
+<div class='header'>支付提示</div>#un未知
+将跳转至支付宝完成支付#un未知
+<div class='ui approve orange button'>确定</div>#un未知
+<div class='ui blank cancel button'>取消</div>#un未知
+<div class='tootip no-arrow' data-position='bottom center' data-tooltip='试试让马建仓助手来解读仓库吧～'>#un未知
+<div class='chat-button'>#un未知
+<a target="_blank" class="d-align-center" href="https://chat.gitee.com?repo_owner=petershill&amp;repo_path=topwar2026"><img alt="richgiteeai" style="width:14px; height:14px;" src="https://cn-assets.gitee.com/assets/rich_giteeai-78477b2d4703c69031f90ac6a524c3e3.svg" />#un未知
+<span class='ui buttons basic watch-container'>#un未知
+<div class='ui dropdown button js-project-watch' data-watch-type='unwatch'>#un未知
+<input type='hidden' value=''>#un未知
+<i class='iconfont icon-watch'></i>#un未知
+<div class='text'>#un未知
+Watch#un未知
+<i class='dropdown icon'></i>#un未知
+<div class='menu'>#un未知
+<a data-value="unwatch" class="item" rel="nofollow" data-method="post" href="/petershill/topwar2026/unwatch"><i class='iconfont icon-msg-read'></i>#un未知
+不关注#un未知
+</a><a data-value="watching" class="item" rel="nofollow" data-method="post" href="/petershill/topwar2026/watch"><i class='iconfont icon-msg-read'></i>#un未知
+关注所有动态#un未知
+</a><a data-value="releases_only" class="disabled item" rel="nofollow" data-method="post" href="/petershill/topwar2026/release_only_watch"><i class='iconfont icon-msg-read'></i>#un未知
+仅关注版本发行动态#un未知
+</a><a data-value="ignoring" class="item" rel="nofollow" data-method="post" href="/petershill/topwar2026/ignoring_watch"><i class='iconfont icon-msg-read'></i>#un未知
+关注但不提醒动态#un未知
+<style>#un未知
+.js-project-watch .text .iconfont {#un未知
+display: none; }#un未知
+.js-project-watch a, .js-project-watch a:hover {#un未知
+color: #un未知
+.js-project-watch .item > .iconfont {#un未知
+visibility: hidden;#un未知
+margin-left: -10px; }#un未知
+.js-project-watch .selected .iconfont {#un未知
+visibility: visible; }#un未知
+.js-project-watch .menu {#un未知
+margin-top: 4px !important; }#un未知
+</style>#un未知
+$('.js-project-watch').dropdown({#un未知
+action: 'select',#un未知
+onChange: function(value, text, $selectedItem) {#un未知
+var type = value === 'unwatch' ? 'Watch' : 'Watching';#un未知
+$(this).children('.text').text(type);#un未知
+$(this).dropdown('set selected', value)#un未知
+<a class="ui button action-social-count" title="1" href="/petershill/topwar2026/watchers">1#un未知
+</a></span>#un未知
+<span class='basic buttons star-container ui'>#un未知
+<a class="ui button star" href="/login"><i class='iconfont icon-star'></i>#un未知
+Star#un未知
+</a><a class="ui button action-social-count " title="0" href="/petershill/topwar2026/stargazers">0#un未知
+<span class='ui basic buttons fork-container' title='无权 Fork 此仓库'>#un未知
+<a class="ui button fork" title="你必须登录后才可以fork一个仓库" href="/login"><i class='iconfont icon-fork'></i>#un未知
+Fork#un未知
+</a><a class="ui button action-social-count disabled-style" title="0" href="/petershill/topwar2026/members">0#un未知
+<h2 class='git-project-title mt-0 mb-0'>#un未知
+<span class="project-title"><i class="project-icon iconfont icon-project-public" style='margin-right: 4px' title="这是一个公开仓库"></i> <a title="PeterShil" class="author" href="/petershill">PeterShil</a>/<a title="my_data_config" class="repository" target="" style="padding-bottom: 0px; margin-right: 4px" href="/petershill/topwar2026">my_data_config</a></span><span class="project-badges"><style>#un未知
+.gitee-modal {#un未知
+width: 500px !important; }#un未知
+<input type="hidden" name="project_title" id="project_title" value="PeterShil/my_data_config" />#un未知
+</h2>#un未知
+var title_import_url = "false";#un未知
+var title_post_url = "/petershill/topwar2026/update_import";#un未知
+var title_fork_url = "/petershill/topwar2026/sync_fork";#un未知
+var title_project_path = "topwar2026";#un未知
+var title_p_name = "my_data_config";#un未知
+var title_p_id= "44346771";#un未知
+var title_description = "";#un未知
+var title_form_authenticity_token = "BYVKuVLqXLGRyqC6quAjocz3D6CYuQNF4CDTVzdauJw2snciYsy203RTQp7EkuDmQf+PaNfzu0WWZhteKwRiHA==";#un未知
+var watch_type = "unwatch";#un未知
+var checkFirst = false;#un未知
+$('.js-project-watch').dropdown('set selected', watch_type);#un未知
+$('.checkbox.sync-wiki').checkbox();#un未知
+$('.checkbox.sync-prune').checkbox();#un未知
+$('.checkbox.team-member-checkbox').checkbox();#un未知
+$('.project-closed-label').popup({#un未知
+popup: '.project-closed-popup',#un未知
+position: 'top center',#un未知
+hoverable: true,#un未知
+i.loading, .icon-sync.loading {#un未知
+-webkit-animation: icon-loading 1.2s linear infinite;#un未知
+animation: icon-loading 1.2s linear infinite;#un未知
+.qrcode_cs {#un未知
+float: left;#un未知
+.check-sync-wiki {#un未知
+height: 28px;#un未知
+line-height: 28px;#un未知
+.sync-wiki-warn {#un未知
+color: #un未知
+<div class='git-project-nav'>#un未知
+<div class='ui secondary pointing menu'>#un未知
+<a class="item active " href="/petershill/topwar2026"><i class='iconfont icon-code'></i>#un未知
+代码#un未知
+</a><a class="item " href="/petershill/topwar2026/issues"><i class='iconfont icon-task'></i>#un未知
+Issues#un未知
+<span class='ui mini circular label'>#un未知
+0#un未知
+</a><a class="item " href="/petershill/topwar2026/pulls"><i class='iconfont icon-pull-request'></i>#un未知
+Pull Requests#un未知
+</a><a class="item " href="/petershill/topwar2026/wikis"><i class='iconfont icon-wiki'></i>#un未知
+Wiki#un未知
+</a><a class="item  " href="/petershill/topwar2026/graph/master"><i class='iconfont icon-statistics'></i>#un未知
+统计#un未知
+</a><a class="item " href="/petershill/topwar2026/gitee_go"><i class='iconfont icon-workflow'></i>#un未知
+流水线#un未知
+</a><div class='item'>#un未知
+<div class='ui pointing top right dropdown git-project-service'>#un未知
+<div>#un未知
+<i class='iconfont icon-service'></i>#un未知
+服务#un未知
+<div class='menu' style='display:none'>#un未知
+<a class="item" href="/petershill/topwar2026/javadoc"><img src="https://cn-assets.gitee.com/assets/maven-bd58aee84f266d64d4b8ce5b006a9fcf.png" alt="Maven" />#un未知
+<div class='item-title'>#un未知
+JavaDoc#un未知
+</a><a class="item" href="/petershill/topwar2026/phpdoc"><img src="https://cn-assets.gitee.com/assets/phpdoc-a99f87c2feaa2fd99e5065377a39487e.png" alt="Phpdoc" />#un未知
+PHPDoc#un未知
+</a><a class="item" href="/petershill/topwar2026/quality_analyses?platform=sonar_qube"><img src="https://cn-assets.gitee.com/assets/sonar_mini-5e1b54bb9f6c951d97fb778ef623afea.png" alt="Sonar mini" />#un未知
+质量分析#un未知
+</a><a class="item" target="_blank" href="https://gitee.com/help/articles/4193"><img src="https://cn-assets.gitee.com/assets/jenkins_for_gitee-554ec65c490d0f1f18de632c48acc4e7.png" alt="Jenkins for gitee" />#un未知
+Jenkins for Gitee#un未知
+</a><a class="item" target="_blank" href="https://gitee.com/help/articles/4318"><img src="https://cn-assets.gitee.com/assets/cloudbase-1197b95ea3398aff1df7fe17c65a6d42.png?20200925" alt="Cloudbase" />#un未知
+腾讯云托管#un未知
+</a><a class="item" target="_blank" href="https://gitee.com/help/articles/4330"><img src="https://cn-assets.gitee.com/assets/cloud_serverless-686cf926ced5d6d2f1d6e606d270b81e.png" alt="Cloud serverless" />#un未知
+腾讯云 Serverless#un未知
+</a><a class="item" href="/petershill/topwar2026/open_sca"><img src="https://cn-assets.gitee.com/assets/open_sca/logo-9049ced662b2f9936b8001e6f9cc4952.png" alt="Logo" />#un未知
+悬镜安全#un未知
+</a><a class="item" target="_blank" href="https://help.gitee.com/devops/connect/Aliyun-SAE"><img src="https://cn-assets.gitee.com/assets/SAE-f3aa9366a1e2b7fff4747402eb8f10c3.png" alt="Sae" />#un未知
+阿里云 SAE#un未知
+</a><a class="item" id="update-codeblitz-link" target="_blank" href="https://gitee.com/link?target=https%3A%2F%2Fcodeblitz.cloud.alipay.com%2Fgitee%2Fpetershill%2Ftopwar2026%2Ftree%2Fmaster%2Fywy_2026.txt"><img style="width:100px;margin-top:4px" src="https://cn-assets.gitee.com/assets/Codeblitz-8824e38875a106e16e29ff57ec977b08.png" alt="Codeblitz" />#un未知
+Codeblitz#un未知
+</a><a class="item" id="update-codeblitz-link" target="_blank" href="/petershill/topwar2026/sbom"><img style="width:30px;margin-top:4px" src="https://cn-assets.gitee.com/assets/SBOM-36dbd3141411c5c1e9095e8d1d21baf0.png" alt="Sbom" />#un未知
+SBOM#un未知
+</a><button class='ui orange basic button quit-button' id='quiting-button'>#un未知
+我知道了，不再自动展开#un未知
+</button>#un未知
+$('.git-project-nav .ui.dropdown').dropdown({ action: 'nothing' });#un未知
+// 下线小红点 var gitee_reward_config = JSON.parse(localStorage.getItem('gitee_reward_config') || null) ||  true#un未知
+var gitee_reward_config = true#un未知
+var $settingText = $('.setting-text')#un未知
+// 如果没有访问过#un未知
+if(!gitee_reward_config) $settingText.addClass('red-dot')#un未知
+$('.git-project-service').dropdown({#un未知
+on: 'click',#un未知
+action: 'nothing',#un未知
+onShow: function () {#un未知
+const branch = 'master'#un未知
+let newUrl = `https://codeblitz.cloud.alipay.com/gitee/petershill/topwar2026/tree/`#un未知
+const url = decodeURIComponent(window.location.pathname);#un未知
+const startIndex = url.indexOf('master');#un未知
+if (startIndex !== -1) {#un未知
+newUrl = newUrl + url.substring(startIndex); // 从分支名开始截取#un未知
+}else{#un未知
+newUrl = newUrl + branch#un未知
+const linkElement = document.getElementById("update-codeblitz-link");#un未知
+linkElement.setAttribute("href", window.location.origin + "/link?target=" + encodeURIComponent(newUrl));#un未知
+.git-project-nav i.checkmark.icon {#un未知
+color: green;#un未知
+#un未知
+display: none;#un未知
+.git-project-nav .dropdown .menu.hidden:after {#un未知
+visibility: hidden !important;#un未知
+isSignIn = false#un未知
+isClickGuide = false#un未知
+$('#un未知
+$.ajax({#un未知
+url:"/petershill/topwar2026/access/add_access_log",#un未知
+type:"GET"#un未知
+$('#un未知
+$('.git-project-service').click();#un未知
+if (isSignIn) {#un未知
+$.post("/projects/set_service_guide")#un未知
+$.cookie("Serve_State", true, { expires: 3650, path: '/'})#un未知
+$('#un未知
+if (!(isClickGuide || $.cookie("Serve_State") == 'true')) {#un未知
+$('.git-project-service').click()#un未知
+$('#un未知
+<div class='register-guide'>#un未知
+<div class='register-container'>#un未知
+<div class='regist'>#un未知
+加入 Gitee#un未知
+<div class='description'>#un未知
+与超过 1200万 开发者一起发现、参与优秀开源项目，私有仓库也完全免费 ：）#un未知
+<a class="ui orange button free-registion" href="/signup?from=project-guide">免费加入</a>#un未知
+<div class='login'>#un未知
+已有帐号？#un未知
+<a href="/login?from=project-guide">立即登录</a>#un未知
+<script defer='defer' src='/static/javascripts/file-icons.js'></script>#un未知
+<div class='git-project-content-wrapper'>#un未知
+<div class='ui grid blob-ddd' id='project-wrapper'>#un未知
+<div class='project-left-side-contaner wide column left-side' id='project-left-side-contaner'>#un未知
+<link href='/webpacks/osc-element-ui-theme/index.css' rel='stylesheet' type='text/css'>#un未知
+<div class='left-side-container' style='height: 100%'>#un未知
+<div class='d-flex-between'>#un未知
+<div class='d-align-center' id='left-head_root_file'>#un未知
+<div class='file-iconify-item' onclick="$('.project-left-side-contaner').hide();$('#un未知
+<span class='iconify' data-icon='gitee:sidebar-expand' style='font-size: 16px;'></span>#un未知
+<span class='text-bold'>文件</span>#un未知
+<div class='ml-1' id='left-head_root_actions' style='flex: 1'>#un未知
+<div class='ui horizontal list repo-action-list d-flex d-align-center repo-action-list-right'>#un未知
+<div class='item search-box-container'>#un未知
+<div class='ui icon input search-input' id='search-box'>#un未知
+<input class='search-file-name' maxlength='40' placeholder='搜索文件' type='text'>#un未知
+<a class='d-flex d-align-center head-search-file-btn' id='search-file-btn'>#un未知
+<span class='iconify' data-icon='gitee:search' style='font-size: 16px;color:#un未知
+</a>#un未知
+<div class='filter-file-container' style='display: none;'></div>#un未知
+const $dropdown = $('#un未知
+const dropdownEl = $dropdown[0];#un未知
+const $plusBox = $dropdown.closest('.plus-box');#un未知
+const dropdownAppendToBody = false;#un未知
+let allowHide = true;#un未知
+if (dropdownAppendToBody) {#un未知
+document.body.addEventListener('click', function(e) {#un未知
+allowHide = true;#un未知
+let current = e.target;#un未知
+while (current !== null) {#un未知
+if (current === dropdownEl) {#un未知
+allowHide = false;#un未知
+break;#un未知
+current = current.parentElement;#un未知
+if (allowHide) $dropdown.dropdown('hide');#un未知
+$dropdown.dropdown({#un未知
+action: 'hide',#un未知
+onHide: function () {#un未知
+$plusBox.removeClass('click-active');#un未知
+return allowHide;#un未知
+$plusBox.addClass('click-active');#un未知
+if (!dropdownAppendToBody) return;#un未知
+const $wrapper = this.$menuWrapper || $('<div class="ui top dropdown active visible"></div>');#un未知
+const offset = $(this).offset();#un未知
+$wrapper.css({#un未知
+position: 'absolute',#un未知
+top: offset.top,#un未知
+left: offset.left,#un未知
+marginTop: '1rem',#un未知
+zIndex: 1000#un未知
+if (this.loaded) return;#un未知
+// destroy prev dropdown#un未知
+document.querySelectorAll('.ui.dropdown[data-prev-dropdown]').forEach(function(el) {#un未知
+el.parentNode.removeChild(el);#un未知
+const $menu = $(this).find('.menu');#un未知
+$menu.css({#un未知
+display: 'block',#un未知
+border: '1px solid rgba(34,36,38,0.15)',#un未知
+borderRadius: '4px',#un未知
+boxShadow: '0px 2px 3px 0px rgba(34, 36, 38, 0.15)'#un未知
+// 移动到 body#un未知
+$wrapper.append($menu);#un未知
+$wrapper.appendTo('body');#un未知
+$wrapper.attr('data-prev-dropdown', '');#un未知
+this.$menuWrapper = $wrapper;#un未知
+this.loaded = true;#un未知
+$('#un未知
+$('#un未知
+$('#un未知
+$('.disabled-upload-readonly').popup({#un未知
+content: "只读目录不允许上传文件",#un未知
+className: {#un未知
+popup: 'ui popup',#un未知
+position: 'bottom center',#un未知
+$('.disabled-create-folder').popup({#un未知
+content: "只读目录不允许创建目录",#un未知
+$('.disabled-create-file').popup({#un未知
+content: "只读目录不允许创建文件",#un未知
+$('.disabled-create-submodule').popup({#un未知
+content: "只读目录不允许创建子模块",#un未知
+$('.disabled-upload-readonly, .disabled-create-folder, .disabled-create-file, .disabled-create-submodule').click(function() {#un未知
+return false#un未知
+.disabled-upload-readonly, .disabled-create-file, .disabled-create-folder, .disabled-create-submodule {#un未知
+background-color: #un未知
+color: rgba(0, 0, 0, 0.4) !important;#un未知
+opacity: 0.3 !important;#un未知
+background-image: none !important;#un未知
+-webkit-box-shadow: none !important;#un未知
+box-shadow: none !important; }#un未知
+<div class='item compare-box' data-content='对比视图'>#un未知
+<a class="ui d-flex d-align-center webide" target="_blank" href="/petershill/topwar2026/compare/master...master"><span class='iconify' data-icon='gitee:diff' style='font-size: 16px;color:#un未知
+$('.webIDE-box').popup()#un未知
+$('.compare-box').popup()#un未知
+<script src="https://cn-assets.gitee.com/assets/file_search/app-21e8df8af6aa09b8995390509269205b.js"></script>#un未知
+.filter-file-container-hide {#un未知
+display: none !important; }#un未知
+<div class='left-project-branch-item git-project-branch-item'>#un未知
+<input type="hidden" name="path" id="path" value="ywy_2026.txt" />#un未知
+<div class='ui top left pointing dropdown gradient button dropdown-has-tabs' id='git-project-branch'>#un未知
+<input type="hidden" name="ref" id="ref" value="master" />#un未知
+<div class='default text'>#un未知
+master#un未知
+<div class='ui left icon input'>#un未知
+<span class='dropdown-search-icon iconify' data-icon='gitee:search' style='font-size: 14px;'></span>#un未知
+<input class='search-branch' placeholder='搜索分支' type='text'>#un未知
+<div class='tab-menu project-branch-tab-menu d-flex'>#un未知
+<div class='tab-menu-item' data-placeholder='搜索分支' data-tab='branches'>#un未知
+分支 (1)#un未知
+<div class='d-align-center' style='flex:1;justify-content:end;'>#un未知
+<div class='tab-menu-action' data-tab='branches'>#un未知
+<a class="ui link button" href="/petershill/topwar2026/branches">管理</a>#un未知
+<div class='tab-menu-action' data-tab='tags'>#un未知
+<a class="ui link button" href="/petershill/topwar2026/tags">管理</a>#un未知
+<div class='tab scrolling menu' data-tab='branches' id='branches_panel'>#un未知
+<div data-value="master" class="item" title="master"><span class="iconify" data-icon="gitee:branch" style="font-size: 13px;margin-right:4px; color:#un未知
+.iconfont.icon-shieldlock {#un未知
+color: #un未知
+.dropdown-search-icon {#un未知
+position: absolute;#un未知
+top: 8px;#un未知
+left: 11px;#un未知
+#un未知
+padding-left: 0px !important;#un未知
+padding-right: 0px !important;#un未知
+margin: 0 11px !important;#un未知
+border-bottom: 1px solid #un未知
+#un未知
+width: 360px !important; }#un未知
+#un未知
+overflow: hidden;#un未知
+text-overflow: ellipsis;#un未知
+white-space: nowrap; }#un未知
+#un未知
+right: 0px !important;#un未知
+bottom: 0.357em; }#un未知
+#un未知
+position: relative !important;#un未知
+bottom: 0px !important; }#un未知
+#un未知
+var $branchesDropdown = $('#un未知
+var $tagsDropdown = $('#un未知
+var $searchNameInput = $('.search-branch');#un未知
+var concurrentRequestLock = false;#un未知
+var filterXSS = window.filterXSS;#un未知
+var search_text = "";#un未知
+var branch_page_number = 1;#un未知
+var branch_total_pager = Math.ceil(1 / 20) || 1#un未知
+var flag_is_loading = false;#un未知
+var flag_page_number = 1;#un未知
+var flag_total_pager = Math.ceil(0 / 20) || 1#un未知
+$branchesDropdown.scroll(function() {#un未知
+var branchesPanel = document.getElementById('branches_panel');#un未知
+var numOfBranches = $branchesDropdown.children().length;#un未知
+if (branchesPanel.clientHeight + branchesPanel.scrollTop + 37 > branchesPanel.scrollHeight && numOfBranches < 1) {#un未知
+debounceLoadMoreBranches.call();#un未知
+function resetFlagVal() {#un未知
+flag_is_loading = false;#un未知
+flag_page_number = 1;#un未知
+flag_total_pager = 1;#un未知
+concurrentRequestLock = false#un未知
+search_text = "";#un未知
+branch_page_number = 1;#un未知
+branch_total_pager = 1#un未知
+$searchNameInput.on('input', window.globalUtils.debouce(function (e) {#un未知
+resetFlagVal()#un未知
+var $currentTab = $('.tab-menu-action.active');#un未知
+var searchWord = $searchNameInput.val().trim();#un未知
+search_text = searchWord#un未知
+if($currentTab.data('tab') === 'branches') {#un未知
+if (searchWord !== "") {#un未知
+loadData(searchWord,1);#un未知
+loadData();#un未知
+var numOfTags = $tagsDropdown.children().length;#un未知
+if($currentTab.data('tab') === 'tags') {#un未知
+fetchTags(searchWord,1);#un未知
+fetchTags();#un未知
+}, 500));#un未知
+function toggleNoResultView($popPanel) {#un未知
+let no_data_html= `<div class='mt-1 mb-1 d-flex-center'> <span>暂无数据</span> </div>`#un未知
+$popPanel.append(no_data_html)#un未知
+var debounceLoadMoreBranches = window.globalUtils.debouce(function () {#un未知
+if (concurrentRequestLock) return;#un未知
+branch_page_number += 1;#un未知
+if (branch_page_number > branch_total_pager) return;#un未知
+loadData(search_text, branch_page_number);#un未知
+}, 350);#un未知
+function loadData(search, page) {#un未知
+if (concurrentRequestLock) { return; }#un未知
+concurrentRequestLock = true;#un未知
+var searchParams = search || "";#un未知
+var pageParams = page || 1;#un未知
+url: "/" + gon.user_project + "/branches/names.json",#un未知
+type: 'GET',#un未知
+data: {#un未知
+search: searchParams,#un未知
+page: pageParams,#un未知
+dataType: 'json',#un未知
+success: function (data) {#un未知
+branch_total_pager = data.total_pages;#un未知
+var html = '';#un未知
+if (pageParams === 1) {#un未知
+$branchesDropdown.empty();#un未知
+data.branches.forEach(function (branch) {#un未知
+var protectRule = '';#un未知
+var branchName = filterXSS(branch.name);#un未知
+var icon = 'gitee:branch'#un未知
+if(branch.branch_type.value === 1) {#un未知
+var rule = filterXSS(branch.protection_rule.wildcard);#un未知
+protectRule = `<i#un未知
+class="iconfont icon-shieldlock protected-branch-popup"#un未知
+data-title="受保护分支"#un未知
+data-content='保护规则： ${rule}'#un未知
+>#un未知
+</i>`#un未知
+icon ='gitee:pen-lock'#un未知
+}else if(branch.branch_type.value === 2) {#un未知
+icon ='gitee:pen-ban'#un未知
+var branchIcon = `<span class="iconify" data-icon=${icon} style="font-size: 13px; margin-right:4px; color:#un未知
+html += `<div data-value='${branchName}' class="item">#un未知
+${branchIcon}#un未知
+<span>${branchName}</span> ${protectRule}#un未知
+</div>`#un未知
+$branchesDropdown.append(html);#un未知
+$('.protected-branch-popup').popup()#un未知
+if (pageParams === 1 && data.count === 0) {#un未知
+toggleNoResultView($branchesDropdown);#un未知
+complete: function () {#un未知
+concurrentRequestLock = false;#un未知
+$tagsDropdown.scroll(function() {#un未知
+var tagsPanel = document.getElementById('tags_panel');#un未知
+if (tagsPanel.clientHeight + tagsPanel.scrollTop + 37 > tagsPanel.scrollHeight && numOfTags < 0) {#un未知
+debounceLoadMore.call();#un未知
+var debounceLoadMore = window.globalUtils.debouce(function () {#un未知
+if (flag_is_loading) return;#un未知
+flag_page_number += 1;#un未知
+if (flag_page_number > flag_total_pager) return;#un未知
+fetchTags(search_text, flag_page_number);#un未知
+function fetchTags(search, page) {#un未知
+flag_is_loading = true;#un未知
+url: "/" + gon.user_project + "/tags/names.json",#un未知
+type: "GET",#un未知
+xhrFields: {#un未知
+withCredentials: true,#un未知
+flag_total_pager = data.total_pages;#un未知
+$tagsDropdown.html('');#un未知
+data.tags.forEach((tag) => {#un未知
+const itemDiv = document.createElement('div');#un未知
+itemDiv.classList.add('item');#un未知
+itemDiv.setAttribute('data-value', tag.name);#un未知
+itemDiv.innerText = window.filterXSS(tag.name);#un未知
+$tagsDropdown.append(itemDiv)#un未知
+toggleNoResultView($tagsDropdown);#un未知
+error: function () {#un未知
+$('.project-branch-tab-menu').on('click','.tab-menu-item', function (e) {#un未知
+var $currentTab = $(this).data('tab')#un未知
+if($currentTab === 'branches') {#un未知
+$searchNameInput.val('')#un未知
+search_text = '';#un未知
+loadData()#un未知
+if($currentTab === 'tags') {#un未知
+$(function () {#un未知
+var curNode = $('.git-project-branch-item')#un未知
+if (true ){#un未知
+curNode = $('.left-project-branch-item')#un未知
+}else {#un未知
+curNode = $('.git-project-branch-item')#un未知
+Gitee.initTabsInDropdown(curNode.find('#un未知
+fullTextSearch: true,#un未知
+selectOnKeydown: false,#un未知
+direction: 'downward',#un未知
+action: function (text,value,el) {#un未知
+var oItemOrInitObject = el[0] || el#un未知
+var isNotSelect = oItemOrInitObject.dataset.tab && oItemOrInitObject.dataset.tab === 'branches'#un未知
+if(isNotSelect){#un未知
+console.warn("You didn't choose a branch")#un未知
+return#un未知
+var path = $('#un未知
+var href = ['/petershill/topwar2026/tree', encodeURIComponent(value), path].join('/');#un未知
+window.location.href = href;#un未知
+return true#un未知
+onNoResults: function (searchTerm) {#un未知
+//未找到结果#un未知
+}));#un未知
+<div data-init-path='ywy_2026.txt' data-repo-path='petershill/topwar2026' id='project-tree-container'></div>#un未知
+.left-side-container {#un未知
+display: -webkit-box;#un未知
+display: -ms-flexbox;#un未知
+display: flex;#un未知
+-webkit-box-orient: vertical;#un未知
+-webkit-box-direction: normal;#un未知
+-ms-flex-direction: column;#un未知
+flex-direction: column; }#un未知
+.left-side-container .file-iconify-item {#un未知
+padding: 8px;#un未知
+border-radius: 4px;#un未知
+margin-right: 8px;#un未知
+width: 32px;#un未知
+height: 32px;#un未知
+text-align: center; }#un未知
+.left-side-container .file-iconify-item:hover {#un未知
+background-color: #un未知
+if (!false && window.Gitee.setFullscreen){#un未知
+window.Gitee.setFullscreen(true);#un未知
+window.Gitee.setFullscreen(false);#un未知
+<script src="https://cn-assets.gitee.com/webpacks/vendors_lib-7ff466a6da368d391eda.js" defer="defer"></script>#un未知
+<script src="https://cn-assets.gitee.com/webpacks/project_tree-2d6f0e39ac0b8c1f63af.bundle.js" defer="defer"></script>#un未知
+<div class='sixteen wide column right-wrapper' id='sixteen'>#un未知
+<div class='git-project-content' id='git-project-content'>#un未知
+<div class='row'>#un未知
+<div class='git-project-desc-wrapper'>#un未知
+$('.git-project-desc-wrapper .ui.dropdown').dropdown();#un未知
+if (false) {#un未知
+gon.project_new_blob_path = "/petershill/topwar2026/new/master/ywy_2026.txt"#un未知
+bindShowModal({#un未知
+el: $('.no-license .project-license__create'),#un未知
+complete: function(data, modal) {#un未知
+if (!data.haveNoChoice && !data.data) {#un未知
+Flash.show('请选择一项开源许可证')#un未知
+location.href = gon.project_new_blob_path + '?license=' + data.data#un未知
+skip: function () {#un未知
+location.href = gon.project_new_blob_path + '?license'#un未知
+$(".project-admin-action-box .reject").click(function() {#un未知
+var reason = $('[name=review-reject-reason]').val();#un未知
+if (!reason) {#un未知
+Flash.error('请选择不通过理由')#un未知
+type: 'POST',#un未知
+url: "/admin/shumei_content/shumei_check/reject_project_public",#un未知
+reason: reason,#un未知
+status: 'rejected',#un未知
+project_id: 44346771#un未知
+success: function(result){#un未知
+if(result.status == 'success'){#un未知
+window.location.reload();#un未知
+Flash.error(result.message)#un未知
+$(".project-admin-action-box .approve").click(function(){#un未知
+status: 'approved',#un未知
+$(".project-admin-action-box .waiting").click(function(){#un未知
+status: 'waiting',#un未知
+$('i.help.circle.icon').popup({#un未知
+popup: '.no-license .ui.popup',#un未知
+position: 'right center'#un未知
+$('#un未知
+$.cookie("skip_repo_no_license_message_44346771", 'hide', { expires: 365 });#un未知
+$('#un未知
+return;#un未知
+<div class='git-project-bread' id='git-project-bread'>#un未知
+<div class='ui horizontal list mr-1' id='git-branch-dropdown' style='display: none;'>#un未知
+<div class='item git-project-branch-item'>#un未知
+<div class='git-project-right-actions pull-right'>#un未知
+<div class='ui basic orange button' id='btn-dl-or-clone'>#un未知
+克隆/下载#un未知
+<div class='ui small modal' id='git-project-download-panel'>#un未知
+<div class='ui secondary pointing menu mb-2 menu-container'>#un未知
+<a class='item active' data-text='' data-type='http' data-url='https://gitee.com/petershill/topwar2026.git'>HTTPS</a>#un未知
+<a class='item' data-text='' data-type='ssh' data-url='git@gitee.com:petershill/topwar2026.git'>SSH</a>#un未知
+<a class='item' data-text="该仓库未启用SVN访问，请仓库管理员前往【&lt;a target='_blank' href=/petershill/topwar2026/settings#un未知
+<a class='item' data-text="该仓库未启用SVN访问，请仓库管理员前往【&lt;a target='_blank' href=/petershill/topwar2026/settings#un未知
+<a class="button-box ui basic orange button" href="/petershill/topwar2026/repository/archive/master.zip"><i class='icon download'></i>#un未知
+下载ZIP#un未知
+<div class='ui fluid right labeled small input download-url-panel mb-2'>#un未知
+<input type="text" name="project_url_clone" id="project_url_clone" value="https://gitee.com/petershill/topwar2026.git" onclick="focus();select()" readonly="readonly" />#un未知
+<div class='ui basic label copy-icon-box'>#un未知
+<i class='icon iconfont icon-clone mr-0 btn-copy-clone' data-clipboard-target='#un未知
+<div class='tip-box mb-2'>#un未知
+提示#un未知
+<div class='mb-1 clone-url-title'>#un未知
+下载代码请复制以下命令到终端执行#un未知
+<input type="text" name="project_clone_url" id="project_clone_url" value="https://gitee.com/petershill/topwar2026.git" onclick="focus();select()" readonly="readonly" />#un未知
+<i class='icon iconfont icon-clone mr-0 btn-copy-clone' data-clipboard-target='#un未知
+<div class='ui fluid right labeled warning-text forbid-warning-text'>#un未知
+<div class='http-ssh-item mb-2'>#un未知
+为确保你提交的代码身份被 Gitee 正确识别，请执行以下命令完成配置#un未知
+<div class='textarea-box mt-2'>#un未知
+<textarea class='textarea-content-box' id='global-config-clone' readonly>git config --global user.name userName &#un未知
+<i class='icon iconfont icon-clone mr-2 btn-copy-clone text-dark' data-clipboard-target='#un未知
+<div class='ssh-item item-panel-box'>#un未知
+<div class='mb-2'>#un未知
+初次使用 SSH 协议进行代码克隆、推送等操作时，需按下述提示完成 SSH 配置#un未知
+<div class='mb-1'>#un未知
+<span>1</span>#un未知
+生成 RSA 密钥#un未知
+<div class='ui fluid right labeled small input mb-2'>#un未知
+<input type="text" name="ssh_keygen_clone" id="ssh_keygen_clone" value="ssh-keygen -t rsa" onclick="focus();select()" readonly="readonly" />#un未知
+<i class='icon iconfont icon-clone mr-0 btn-copy-clone' data-clipboard-target='#un未知
+<span>2</span>#un未知
+获取 RSA 公钥内容，并配置到<a href='/profile/sshkeys' target="_blank"> SSH公钥 </a> 中#un未知
+<input type="text" name="id_rsa_clone" id="id_rsa_clone" value="cat ~/.ssh/id_rsa.pub" onclick="focus();select()" readonly="readonly" />#un未知
+<i class='icon iconfont icon-clone mr-0 btn-copy-clone' data-clipboard-target='#un未知
+<div class='svn-item item-panel-box'>#un未知
+<div class='mb-1 mt-2'>#un未知
+在 Gitee 上使用 SVN，请访问<a href='https://help.gitee.com/enterprise/code-manage/%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1/%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93/Gitee%20SVN%E6%94%AF%E6%8C%81' target="_blank"> 使用指南 </a>#un未知
+<div class='http-item item-panel-box'>#un未知
+<div class='mb-2 mt-2'>#un未知
+使用 HTTPS 协议时，命令行会出现如下账号密码验证步骤。基于安全考虑，Gitee 建议<a href='/profile/personal_access_tokens' target="_blank"> 配置并使用私人令牌 </a>替代登录密码进行克隆、推送等操作#un未知
+<div>Username for 'https://gitee.com': userName</div>#un未知
+<span>Password for 'https://userName@gitee.com':</span>#un未知
+<span>#un未知
+<span>#un未知
+私人令牌#un未知
+#un未知
+top: 90px !important; }#un未知
+#un未知
+color: #un未知
+#un未知
+width: 100%;#un未知
+height: 60px;#un未知
+color: #un未知
+border-radius: 2px;#un未知
+background-color: #un未知
+-webkit-box-align: center;#un未知
+-ms-flex-align: center;#un未知
+align-items: center; }#un未知
+#un未知
+font-weight: bold;#un未知
+border-color: rgba(0, 0, 0, 0.1) !important;#un未知
+border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important; }#un未知
+#un未知
+padding: 7px 12px !important; }#un未知
+#un未知
+color: rgba(39, 41, 43, 0.15) !important; }#un未知
+#un未知
+resize: none;#un未知
+border: 0px !important;#un未知
+#un未知
+cursor: pointer;#un未知
+color: rgba(0, 0, 0, 0.87) !important; }#un未知
+#un未知
+border-left: 0px !important; }#un未知
+#un未知
+float: right !important;#un未知
+padding-right: 0 !important; }#un未知
+#un未知
+border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;#un未知
+padding-bottom: 4px;#un未知
+font-weight: 700; }#un未知
+#un未知
+padding: 8px 12px 4px 12px;#un未知
+text-align: center;#un未知
+font-size: 14px; }#un未知
+#un未知
+margin: 12px auto;#un未知
+width: 25%;#un未知
+min-width: 125px;#un未知
+display: block; }#un未知
+#un未知
+margin-left: 0; }#un未知
+var $btnClone = $('#un未知
+var $modalDownload = $('#un未知
+var $input = $('#un未知
+var $inputUrl = $('#un未知
+var cloneUrlTitle= $('.clone-url-title')#un未知
+$('#un未知
+e.preventDefault();#un未知
+$modalDownload.modal('show');#un未知
+$modalDownload.find('.menu > .item').on('click', function(e) {#un未知
+var $item = $(this).addClass('active');#un未知
+$item.siblings().removeClass('active');#un未知
+var dataUrl = $item.attr('data-url');#un未知
+var cloneUrl = $item.attr('data-url');#un未知
+var dataType = $item.attr('data-type')#un未知
+var cloneToLocal = '下载代码请复制以下命令到终端执行'#un未知
+if(dataType=='http'){#un未知
+$modalDownload.find('.http-item').show();#un未知
+$('.content > .item-panel-box:not(.http-item)').hide();#un未知
+$modalDownload.find('.http-ssh-item').show();#un未知
+cloneUrl = 'git clone '+dataUrl#un未知
+}else if(dataType=='ssh'){#un未知
+$modalDownload.find('.ssh-item').show();#un未知
+$('.content > .item-panel-box:not(.ssh-item)').hide();#un未知
+}else if(dataType=='svn') {#un未知
+$('.content > .item-panel-box:not(.svn-item)').hide();#un未知
+$modalDownload.find('.svn-item').show();#un未知
+$modalDownload.find('.http-ssh-item').hide();#un未知
+cloneUrl = 'svn checkout '+dataUrl#un未知
+if (dataUrl) {#un未知
+$modalDownload.find('.download-url-panel').show();#un未知
+$input.val(cloneUrl);#un未知
+$inputUrl.val(dataUrl)#un未知
+cloneUrlTitle.show();#un未知
+$modalDownload.find('.forbid-warning-text').html('');#un未知
+$modalDownload.find('.download-url-panel').hide();#un未知
+//$modalDownload.find('.svn-item').hide();#un未知
+cloneUrlTitle.hide();#un未知
+$modalDownload.find('.forbid-warning-text').html($item.attr('data-text') || '');#un未知
+$.cookie('remote_way', $item.attr('data-type'), { expires: 365, path: '/' });#un未知
+}).filter('[data-type="' + ($.cookie('remote_way') || 'http') + '"]').trigger('click');#un未知
+$('.btn-copy-clone').popup({#un未知
+content: '点击复制',#un未知
+}).on('click', function(e) {#un未知
+e.stopPropagation();#un未知
+return false;#un未知
+}).each(function(_, btnCopy) {#un未知
+var $btnCopy = $(btnCopy);#un未知
+new Clipboard(btnCopy).on('success', function() {#un未知
+$btnCopy.popup('destroy').popup({#un未知
+content: '已复制',#un未知
+on: 'manual'#un未知
+}).popup('show');#un未知
+setTimeout(function() {#un未知
+content: '点击复制'#un未知
+}, 2000);#un未知
+var $downloadBtn= $('.unlogin-download-btn')#un未知
+var $popupContainer = $('.popup-container')#un未知
+$downloadBtn.popup({#un未知
+popup : $('.custom.popup'),#un未知
+position   : 'bottom right',#un未知
+$downloadBtn.popup('destroy').popup({#un未知
+on: 'manual',#un未知
+$downloadBtn.popup('hide');#un未知
+<div class='d-inline pull-right' id='git-project-root-actions'>#un未知
+const $dropdown = $('#un未知
+<div class='breadcrumb_path path-breadcrumb-contrainer' id='git-project-breadcrumb'>#un未知
+<div class='ui breadcrumb path project-path-breadcrumb d-flex' id='path-breadcrumb'>#un未知
+<div class='mr-1 hide' id='file-iconify-wrapper'>#un未知
+<div class='file-iconify-item d-align-center mr-1' onclick="$('.project-left-side-contaner').show();$('#un未知
+<span class='iconify' data-icon='gitee:sidebar-collapse' style='font-size: 16px;'></span>#un未知
+<div class='left-project-branch-item project-branch-item' style='display: inline-block;'>#un未知
+内容可能含有违规信息#un未知
+#un未知
+vertical-align: middle;#un未知
+.file-iconify-item {#un未知
+display: inline-block !important;#un未知
+&:hover {#un未知
+background-color: #un未知
+.dropdown.project-branch-item {#un未知
+#un未知
+min-width: 92px !important;#un未知
+.icon.dropdown {#un未知
+margin-top: 2px !important#un未知
+.ui.dropdown .menu.transition.visible {#un未知
+min-width: 288px !important;#un未知
+max-width: 360px !important#un未知
+.item {#un未知
+white-space: nowrap;#un未知
+$btnCopy = $('#un未知
+$btnCopy.popup({#un未知
+content: '复制路径'#un未知
+if ($btnCopy[0]) {#un未知
+new Clipboard($btnCopy[0]).on('success', function() {#un未知
+setTimeout(function () {#un未知
+}, 2000)#un未知
+<div class='ui horizontal list repo-action-list branches-tags' style='display: none;'>#un未知
+<div class='item'>#un未知
+<a class="ui blank button" href="/petershill/topwar2026/branches"><i class='iconfont icon-branches'></i>#un未知
+分支 1#un未知
+<div class='item mr-3'>#un未知
+<a class="ui blank button" href="/petershill/topwar2026/tags"><i class='iconfont icon-tag'></i>#un未知
+标签 0#un未知
+<script src="https://cn-assets.gitee.com/webpacks/parse_blob_form_scheme-f74db29bb977414ba0cb.bundle.js"></script>#un未知
+if(window.gon.locale == 'en')#un未知
+$('.branches-tags').css('margin-top', '12px')#un未知
+// 仓库页面切换路径时: 刷新 yaml 错误检查#un未知
+$(window).on('pjax-complete:file-show', function () {#un未知
+window.parseBlobFormScheme && window.parseBlobFormScheme($('.js-blob-data').data('blob'));#un未知
+.ui.dropdown .menu > .header {#un未知
+text-transform: none; }#un未知
+var $tip = $('#un未知
+if (!$tip.length) {#un未知
+$tip.find('.btn-close').on('click', function () {#un未知
+$tip.hide();#un未知
+(function(){#un未知
+function pathAutoRender() {#un未知
+var $parent = $('#un未知
+$child = $('#un未知
+mainWidth = 0;#un未知
+$child.each(function (i,item) {#un未知
+mainWidth += $(item).width()#un未知
+$('.breadcrumb.path.fork-path').remove();#un未知
+if (mainWidth > 995) {#un未知
+$('#un未知
+$parent.append('<div class="ui breadcrumb path fork-path">' + $('#un未知
+$('#un未知
+window.pathAutoRender = pathAutoRender;#un未知
+pathAutoRender();#un未知
+<div class='row column tree-holder' id='tree-holder'>#un未知
+<p class='text-center'>内容可能含有违规信息</p>#un未知
+<div class='ui small modal' id='modal-linejump'>#un未知
+<div class='ui custom form content'>#un未知
+<div class='field'>#un未知
+<div class='ui right action input'>#un未知
+<input placeholder='跳转至某一行...' type='number'>#un未知
+<div class='ui orange button'>#un未知
+跳转#un未知
+var $fileTitle = $('.file_title');#un未知
+var $fixedDiv = $('.file_breadcrumb_wrapper');#un未知
+function checkFileTitleTop() {#un未知
+if (!$fileTitle.length) return;#un未知
+var rect = $fileTitle[0].getBoundingClientRect();#un未知
+if (rect.top <= 46) {#un未知
+$fixedDiv.show();#un未知
+var $fileCatalog = $('.file_catalog')#un未知
+if($fileCatalog.length){#un未知
+const h = Math.ceil($fileTitle.height())#un未知
+$fileCatalog.css('top', `${46+h}px`);#un未知
+$fixedDiv.hide();#un未知
+$(window).on('scroll', window.globalUtils.throttle(checkFileTitleTop,100));#un未知
+checkFileTitleTop();#un未知
+<div class='complaint'>#un未知
+<div class='ui modal small form' id='landing-comments-complaint-modal'>#un未知
+举报#un未知
+<div class='appeal-success-tip hide'>#un未知
+<i class='iconfont icon-ic_msg_success'></i>#un未知
+<div class='appeal-success-text'>#un未知
+举报成功#un未知
+我们将于2个工作日内通过站内信反馈结果给你！#un未知
+<div class='appeal-tip'>#un未知
+请认真填写举报原因，尽可能描述详细。#un未知
+<div class='ui form appeal-form'>#un未知
+<div class='inline field'>#un未知
+<label class='left-part appeal-type-wrap'>#un未知
+举报类型#un未知
+</label>#un未知
+<div class='ui dropdown selection' id='appeal-comments-types'>#un未知
+<div class='text default'>#un未知
+请选择举报类型#un未知
+<div class='menu'></div>#un未知
+<label class='left-part'>#un未知
+举报原因#un未知
+<textarea class='appeal-reason' id='appeal-comment-reason' name='msg' placeholder='请说明举报原因' rows='3'></textarea>#un未知
+<div class='ui message callback-msg hide'></div>#un未知
+<div class='ui small error text message exceeded-size-tip'></div>#un未知
+<div class='ui button blank cancel'>#un未知
+取消#un未知
+<div class='ui orange icon button disabled ok' id='complaint-comment-confirm'>#un未知
+发送#un未知
+var $complaintCommentsModal = $('#un未知
+$complainCommentType = $complaintCommentsModal.find('#un未知
+$complaintModalTip = $complaintCommentsModal.find('.callback-msg'),#un未知
+$complaintCommentsContent = $complaintCommentsModal.find('.appeal-reason'),#un未知
+$complaintCommentBtn = $complaintCommentsModal.find('#un未知
+complaintSending = false,#un未知
+initedCommentsType = false;#un未知
+function initCommentsTypeList() {#un未知
+if (!initedCommentsType) {#un未知
+url: "/appeals/fetch_types",#un未知
+method: 'get',#un未知
+data: {'type': 'comment'},#un未知
+var result = '';#un未知
+for (var i = 0; i < data.length; i++) {#un未知
+result = result + "<div class='item' data-value='" + data[i].id + "'>" + data[i].name + "</div>";#un未知
+$complainCommentType.find('.menu').html(result);#un未知
+$complainCommentType.dropdown({showOnFocus: false});#un未知
+initedCommentsType = true;#un未知
+$complainCommentType.on('click', function() {#un未知
+$complaintCommentsModal.modal({#un未知
+autofocus: false,#un未知
+onApprove: function() {#un未知
+onHidden: function() {#un未知
+restoreCommonentDefault();#un未知
+}).modal('show');#un未知
+$complaintCommentsContent.on('change keyup', function(e) {#un未知
+var content = $(this).val();#un未知
+if ($.trim(content).length > 0 && $complainCommentType.dropdown('get value').length > 0 ) {#un未知
+$complaintCommentBtn.removeClass('disabled');#un未知
+$complaintCommentBtn.addClass('disabled');#un未知
+$complainCommentType.dropdown({#un未知
+showOnFocus: false,#un未知
+if (value.length > 0 && $.trim($complaintCommentsContent.val()).length > 0) {#un未知
+function restoreCommonentDefault() {#un未知
+$complainCommentType.dropdown('restore defaults');#un未知
+$complaintCommentsContent.val('');#un未知
+$('.exceeded-size-tip').text('').hide();#un未知
+$complaintModalTip.text('').hide();#un未知
+setCommentSendTip(false);#un未知
+}, 1500);#un未知
+$complaintCommentBtn.on('click',function(e){#un未知
+var reason = $complaintCommentsContent.val();#un未知
+var appealableId = $('#un未知
+if (complaintSending) {#un未知
+var appealType = $complainCommentType.dropdown('get value');#un未知
+var formData = new FormData();#un未知
+formData.append('appeal_type_id', appealType);#un未知
+formData.append('reason', reason);#un未知
+formData.append('appeal_type','Note');#un未知
+formData.append('target_id',appealableId);#un未知
+url: "/appeals",#un未知
+cache: false,#un未知
+contentType: false,#un未知
+processData: false,#un未知
+data: formData,#un未知
+beforeSend: function() {#un未知
+setCommentSendStatus(true);#un未知
+success: function(res) {#un未知
+if (res.status == 200) {#un未知
+setCommentSendTip(true);#un未知
+$complaintCommentsModal.modal('hide');#un未知
+}, 3000);#un未知
+setCommentSendStatus(false);#un未知
+error: function(err) {#un未知
+showCommonTips(err.responseJSON.message, 'error');#un未知
+function showCommonTips(text, type) {#un未知
+$complaintModalTip.text(text).show();#un未知
+if (type == 'error') {#un未知
+$complaintModalTip.removeClass('success').addClass('error');#un未知
+$complaintModalTip.removeClass('error').addClass('success');#un未知
+function setCommentSendStatus(value) {#un未知
+complaintSending = value;#un未知
+$complaintCommentBtn.addClass('loading');#un未知
+$complaintCommentsContent.attr('readonly', true);#un未知
+$complainCommentType.attr('readonly', true);#un未知
+$complaintCommentBtn.removeClass('loading');#un未知
+$complaintCommentsContent.attr('readonly', false);#un未知
+$complainCommentType.attr('readonly', false);#un未知
+function setCommentSendTip(value) {#un未知
+if (value) {#un未知
+$('.appeal-success-tip').removeClass('hide');#un未知
+$('.appeal-tip').addClass('hide');#un未知
+$('.appeal-form').addClass('hide');#un未知
+$('#un未知
+$('.appeal-success-tip').addClass('hide');#un未知
+$('.appeal-tip').removeClass('hide');#un未知
+$('.appeal-form').removeClass('hide');#un未知
+$('#un未知
+<div class='ui small modal' id='misjudgment_appeal_modal'>#un未知
+<i class='close icon'></i>#un未知
+<div class='header dividing ui'>#un未知
+误判申诉#un未知
+<p>此处可能存在不合适展示的内容，页面不予展示。您可通过相关编辑功能自查并修改。</p>#un未知
+<p>如您确认内容无涉及 不当用语 / 纯广告导流 / 暴力 / 低俗色情 / 侵权 / 盗版 / 虚假 / 无价值内容或违法国家有关法律法规的内容，可点击提交进行申诉，我们将尽快为您处理。</p>#un未知
+<div class='buttons'>#un未知
+<div class='ui button blank cancel'>取消</div>#un未知
+<div class='ui button orange submit'>提交</div>#un未知
+#un未知
+float: right;#un未知
+margin-top: 30px;#un未知
+margin-bottom: 20px; }#un未知
+#un未知
+margin-right: 20px; }#un未知
+var $misjudgmentAppealModal = $('#un未知
+$('.cancel').on('click',function(){#un未知
+$misjudgmentAppealModal.modal('hide');#un未知
+var $jsSubmitAppeal = $misjudgmentAppealModal.find('.submit')#un未知
+$jsSubmitAppeal.on('click', function(e) {#un未知
+$(this).addClass('loading').addClass('disabled');#un未知
+var type = $(this).attr('data-type');#un未知
+var id = $(this).attr('data-id');#un未知
+var projectId = $(this).attr('data-project-id');#un未知
+var appealType = $(this).attr('data-appeal-type');#un未知
+type: "PUT",#un未知
+url: "/misjudgment_appeal",#un未知
+type: type,#un未知
+id: id,#un未知
+project_id: projectId,#un未知
+appeal_type: appealType#un未知
+success: function(data) {#un未知
+Flash.info('提交成功');#un未知
+$jsSubmitAppeal.removeClass('loading');#un未知
+location.reload()#un未知
+error: function(e) {#un未知
+Flash.error('提交失败:'+e.responseText);#un未知
+$jsSubmitAppeal.removeClass('loading').removeClass('disabled');#un未知
+"use strict";#un未知
+$('.js-check-star').checkbox('set unchecked')#un未知
+<div class='four wide column' style='display: none;'>#un未知
+<div class='project__right-side'>#un未知
+<div class='side-item intro'>#un未知
+<h4>简介</h4>#un未知
+<span class='git-project-desc-text text-muted'>暂无描述</span>#un未知
+<a class='hide spread' href='javascript:void(0);'>#un未知
+展开#un未知
+<i class='caret down icon'></i>#un未知
+<a class='retract hide' href='javascript:void(0);'>#un未知
+收起#un未知
+<i class='caret up icon'></i>#un未知
+<div class='intro-list'>#un未知
+<div class='blank d-flex d-flex-between dropdown item js-project-label_show label-list-line-feed project-label-list ui' data-labels='[]' data-url='/petershill/topwar2026/update_description'>#un未知
+<div class='mixed-label'>#un未知
+<div class='default'>暂无标签</div>#un未知
+<div class='hide item'>#un未知
+<i class='iconfont icon-link'></i>#un未知
+<span class='git-project-homepage'>#un未知
+<a rel="nofollow" id="homepage" target="_blank" href="/petershill/topwar2026/blob/master/ywy_2026.txt">/petershill/topwar2026/blob/master/ywy_2026.txt</a>#un未知
+<div class='item box-licence'>#un未知
+<i class='iconfont icon-licence'></i>#un未知
+<span class='license-popup license-clickable' data-license-filename='LICENSE' data-license-index='0' data-license-name='Apache-2.0' id='license-popup-0'>#un未知
+Apache-2.0#un未知
+<div class='ui popup dark'>使用 Apache-2.0 开源许可协议</div>#un未知
+<!-- - page = @project.page -->#un未知
+<!-- - if page&.status? -->#un未知
+<!-- .item -->#un未知
+<!-- %i.iconfont.icon-giteepage -->#un未知
+<!-- Pages： -->#un未知
+<!-- = link_to page.domain_url, page.domain_url, target: '_blank' -->#un未知
+<div class='item star-item'>#un未知
+<i class='iconfont icon-star'></i>#un未知
+<a class="action-social-count " title="0" href="/petershill/topwar2026/stargazers"><span class='text-bold'>#un未知
+Stars#un未知
+<div class='item watch-item'>#un未知
+<a class="action-social-count" title="1" href="/petershill/topwar2026/watchers"><span class='text-bold'>#un未知
+1#un未知
+Watching#un未知
+<i class='iconfont icon-fork'></i>#un未知
+<a class="action-social-count disabled-style" title="0" href="/petershill/topwar2026/members"><span class='text-bold'>#un未知
+Forks#un未知
+<div class='content intro-form'>#un未知
+<div class='ui small input'>#un未知
+<textarea name='project[description]' placeholder='描述' rows='5'></textarea>#un未知
+<input data-regex-value='(^$)|(^(http|https):\/\/(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5]).*)|(^(http|https):\/\/[a-zA-Z0-9]+([_\-\.]{1}[a-zA-Z0-9]+)*\.[a-zA-Z]{2,10}(:[0-9]{1,10})?(\?.*)?(\/.*)?$)' name='project[homepage]' placeholder='主页(eg: https://gitee.com)' type='text'>#un未知
+<button class='ui orange button mt-1 btn-save'>#un未知
+保存更改#un未知
+<div class='ui blank button btn-cancel-edit'>#un未知
+<div class='side-item release'>#un未知
+<h4>发行版</h4>#un未知
+<span class='text-muted'>#un未知
+暂无发行版#un未知
+<div class='side-item contrib' data-url='/petershill/topwar2026/contributors_count?ref=master' id='contributor'>#un未知
+<h4>#un未知
+贡献者#un未知
+<span class='text-muted' id='contributor-count'></span>#un未知
+</h4>#un未知
+<a class="ui link button pull-right" href="/petershill/topwar2026/contributors?ref=master">全部</a>#un未知
+<div class='content' id='contributor-list'></div>#un未知
+<div class='ui active centered inline loader' id='contributor-loader'></div>#un未知
+<div class='side-item events' data-url='/petershill/topwar2026/events.json' id='proj-events'>#un未知
+<h4>近期动态</h4>#un未知
+<div class='ui comments' id='event-list'></div>#un未知
+<a class="loadmore hide" href="javascript:void(0);">加载更多#un未知
+<i class='icon dropdown'></i>#un未知
+</a><center>#un未知
+<div class='text-muted nomore hide'>不能加载更多了</div>#un未知
+<div class='ui inline loader active'></div>#un未知
+</center>#un未知
+<div class='ui modal tiny' id='edit-project-description'>#un未知
+<div class='header'>编辑仓库简介</div>#un未知
+<div class='item mb-2'>#un未知
+<div class='title label'>简介内容</div>#un未知
+<textarea maxlength='200' name='project[description]' placeholder='描述' rows='5'></textarea>#un未知
+<div class='title label'>主页</div>#un未知
+<button class='ui button blank cancel'>取消</button>#un未知
+<button class='ui button orange btn-save'>保存更改</button>#un未知
+#un未知
+.license-popup {#un未知
+color: #un未知
+cursor: pointer; }#un未知
+.license-clickable {#un未知
+-webkit-transition: color 0.2s ease;#un未知
+transition: color 0.2s ease; }#un未知
+// 公共函数：平滑滚动到指定的license标题
+function scrollToLicenseTitle(licenseIndex) {#un未知
+var container = $('.file_readme_title')[0];#un未知
+if (!container) return;#un未知
+if (licenseIndex === undefined || licenseIndex === null) {#un未知
+// 如果没有licenseIndex，滚动到最左侧#un未知
+container.scrollTo({#un未知
+left: 0,#un未知
+behavior: 'smooth'#un未知
+var selectedElement = $('#un未知
+if (selectedElement) {#un未知
+// 计算目标位置（元素相对于容器的位置）#un未知
+var containerRect = container.getBoundingClientRect();#un未知
+var elementRect = selectedElement.getBoundingClientRect();#un未知
+var scrollLeft = container.scrollLeft;#un未知
+var targetScrollLeft = scrollLeft + (elementRect.left - containerRect.left) - 20; // 留20px边距#un未知
+// 平滑滚动到目标位置#un未知
+left: targetScrollLeft,#un未知
+function scrollToReadmeBox() {#un未知
+var readmeBox = document.getElementById('git-readme');#un未知
+if (readmeBox) {#un未知
+const topPos = readmeBox.offsetTop;#un未知
+window.scrollTo({ top: topPos, behavior: "smooth" });#un未知
+window.gon.projectRightSide = {#un未知
+homepage: null,#un未知
+description: "",#un未知
+url: '/petershill/topwar2026/update_description',#un未知
+i18n: {#un未知
+invalidHomepage: '不是有效的 http 地址',#un未知
+descriptionLimitExceeded: '简介长度不得超过%{limit}个字符',#un未知
+noDescription: '暂无描述',#un未知
+noPermission: '无权限操作！',#un未知
+requestError: '修改发生错误，请稍后重试！'#un未知
+window.gon.cloneArrSelectedLabel = [] || []#un未知
+var $editModal = $('#un未知
+$editModal.modal({#un未知
+window.globalUtils.getFocus($editModal.find('textarea'))#un未知
+$('.project__right-side').on('click', '.header .btn-edit', function () {#un未知
+$editModal.modal('show')#un未知
+$('.license-popup').popup({ position: 'bottom center', lastResort: 'bottom center' })#un未知
+// 处理每个license的点击事件#un未知
+$('.license-clickable').click(function(event) {#un未知
+event.preventDefault();#un未知
+event.stopPropagation();#un未知
+var licenseName = $(this).data('license-name');#un未知
+var licenseIndex = $(this).data('license-index');#un未知
+var licenseFilename = $(this).data('license-filename');#un未知
+// 如果license文件名是README.md，则跳转到readme tab#un未知
+if (licenseFilename === 'README.md') {#un未知
+// 显示readme内容区域#un未知
+$('.readme-content').show()#un未知
+$('.readme-edit').show()#un未知
+$('.lisence-content').hide()#un未知
+$('.lisence-edit').hide()#un未知
+// 移除所有license标题的active-title类，然后为readme标题添加active-title类#un未知
+$('.file_title_license').removeClass('active-title');#un未知
+$('.file_title_readme').addClass('active-title');#un未知
+// 滚动到最左侧#un未知
+scrollToLicenseTitle();#un未知
+// 显示license内容区域#un未知
+$('.readme-content').hide()#un未知
+$('.readme-edit').hide()#un未知
+// 移除所有license标题的active-title类，然后为对应的标题添加active-title类#un未知
+$('#un未知
+$('.file_title_readme').removeClass('active-title');#un未知
+// 隐藏所有license内容，然后只显示选中的license内容#un未知
+$('#un未知
+$('#un未知
+// 平滑滚动到对应的license标题#un未知
+scrollToLicenseTitle(licenseIndex);#un未知
+scrollToReadmeBox()#un未知
+$(".box-readme").click(function(event) {#un未知
+$('.file_title_license').removeClass('active-title')#un未知
+$('.file_title_readme').addClass('active-title')#un未知
+scrollToLicenseTitle()#un未知
+$('.js-project-label_show').projectLabel({#un未知
+empty: "标签名不能为空",#un未知
+verify: "标签名只允许包含中文、字母、数字或者中划线(-)，不能以中划线开头，且长度少于35个字符",#un未知
+max: "最多选择 5 个标签"#un未知
+<div class='project-right-side-contaner' id='code-parsing'>#un未知
+<div class='d-flex-between mb-2'>#un未知
+<div class='title fs-16 d-align-center'>#un未知
+<img class='mr-1' height='32' src='/static/images/mjc_icon@2x.png' width='32'>#un未知
+<span class='ai-file-name'>马建仓 AI 助手</span>#un未知
+<i class='iconfont icon-close close gitee-icon-close'></i>#un未知
+<div class='code-parsing-content'>#un未知
+<div class='sub_title'></div>#un未知
+<div class='markdown-body'></div>#un未知
+<div class='bottom-content'>#un未知
+<div class='js-code-parsing-img'></div>#un未知
+<div class='ai_code_btns_simple'>#un未知
+<div class='ai_code_btns_simple_container'>#un未知
+<div class='mr-1 test-more'>尝试更多</div>#un未知
+<div class='btn_box' data-content='帮我解读代码' data-text='代码解读' data-value='code_explain'>#un未知
+<div class='btn_box_title'>代码解读</div>#un未知
+<div class='btn_box' data-content='帮我代码找茬' data-text='代码找茬' data-value='code_review'>#un未知
+<div class='btn_box_title'>代码找茬</div>#un未知
+<div class='btn_box' data-content='帮我优化代码' data-text='代码优化' data-value='code_improve'>#un未知
+<div class='btn_box_title'>代码优化</div>#un未知
+<div class='skeleton'>#un未知
+<div class='line line1'></div>#un未知
+<div class='line line2'></div>#un未知
+<div class='line line3'></div>#un未知
+<div class='line line4'></div>#un未知
+<div class='resize-handle'>#un未知
+<div class='resize-handle-line'></div>#un未知
+<script src="/static/javascripts/markdown-it.min.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/assets/ai_code_parsing/app-f83eb69e2ecd107b1a533333dea1f4eb.js"></script>#un未知
+var maxWidthPercentage = 0.5;#un未知
+$("#un未知
+handles: 'e, w', // 通过左边调整大小#un未知
+minWidth: 350, // 设置 代码解析框 的最小宽度#un未知
+resize: function(event, ui) {#un未知
+var parentWidth = $(this).parent().width();#un未知
+var newWidthDiv2 = ui.size.width;#un未知
+var newWidthDiv1 = parentWidth - newWidthDiv2;#un未知
+// 计算最大宽度#un未知
+var maxWidthDiv2 = parentWidth * maxWidthPercentage;#un未知
+// 确保 代码解析框 不超过最大宽度#un未知
+newWidthDiv2 = Math.min(newWidthDiv2, maxWidthDiv2);#un未知
+// 确保 文件详情 至少有最小宽度#un未知
+newWidthDiv1 = Math.max(parentWidth - newWidthDiv2, 750);#un未知
+var percentageCode = (newWidthDiv2 / parentWidth) * 100;#un未知
+var percentageProject = (newWidthDiv1 / parentWidth) * 100;#un未知
+$('#un未知
+$('.git-project-content-wrapper').find('#un未知
+$('.right-wrapper').attr('style', 'width: ' + percentageProject + '% !important;');#un未知
+$('.project-conter-container').attr('style', 'width: ' + percentageProject + '% !important;');#un未知
+Tree.init();#un未知
+return TreeCommentActions.init();#un未知
+// 防止二次挂载#un未知
+if (true) {#un未知
+window.gon.tree_left_side_loaded = true;#un未知
+<link rel="stylesheet" media="all" href="https://cn-assets.gitee.com/assets/markdown_preview-001478f1b12f2725f1b1f76f36b9ce4e.css" />#un未知
+<script src="https://cn-assets.gitee.com/assets/markdown_preview-f27882a3071270404229ef70dcf6ac7f.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/webpacks/markdown_render-5627847188396ebb0629.bundle.js" defer="defer"></script>#un未知
+var donateModal;#un未知
+Gitee.modalHelper = new GiteeModalHelper({#un未知
+alertText: '提示',#un未知
+okText: '确定'#un未知
+donateModal = new ProjectDonateModal({#un未知
+el: '#un未知
+alipayUrl: '/petershill/topwar2026/alipay',#un未知
+wepayUrl: '/petershill/topwar2026/wepay',#un未知
+nameIsBlank: '名称不能为空',#un未知
+nameTooLong: '名称过长（最多为 36 个字符）',#un未知
+modalHelper: Gitee.modalHelper#un未知
+if (null === 'true') {#un未知
+donateModal.show();#un未知
+$('#un未知
+return donateModal.show();#un未知
+Tree.initHighlightTheme('white')#un未知
+<div class='gitee-project-extension'>#un未知
+<div class='extension public'>1</div>#un未知
+<div class='extension https'>https://gitee.com/petershill/topwar2026.git</div>#un未知
+<div class='extension ssh'>git@gitee.com:petershill/topwar2026.git</div>#un未知
+<div class='extension namespace'>petershill</div>#un未知
+<div class='extension repo'>topwar2026</div>#un未知
+<div class='extension name'>my_data_config</div>#un未知
+<div class='extension branch'>master</div>#un未知
+GitLab.GfmAutoComplete.dataSource = "/petershill/topwar2026/autocomplete_sources"#un未知
+GitLab.GfmAutoComplete.Emoji.assetBase = '/assets/emoji'#un未知
+GitLab.GfmAutoComplete.setup();#un未知
+<footer id='git-footer-main'>#un未知
+<div class='logo-row'>#un未知
+<a href="https://gitee.com"><img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='logo-img logo-light' src='/static/images/logo-black.svg?t=158106666'>#un未知
+<img alt='Gitee - 基于 Git 的代码托管和研发协作平台' class='logo-img logo-dark' src='/static/images/logo-white-next.svg?t=158106666'>#un未知
+<div class='name-important'>#un未知
+北京奥思研工智能科技有限公司版权所有#un未知
+<div class='ui two column grid d-flex-center'>#un未知
+<div class='eight wide column git-footer-left'>#un未知
+<div class='ui four column grid' id='footer-left'>#un未知
+<div class='column'>#un未知
+<div class='ui link list'>#un未知
+<a class="item" href="/all-about-git">Git 大全</a>#un未知
+<a class="item" rel="nofollow" href="https://help.gitee.com/learn-Git-Branching/">Git 命令学习</a>#un未知
+<a class="item" rel="nofollow" href="https://copycat.gitee.com/">CopyCat 代码克隆检测</a>#un未知
+<a class="item" href="/appclient">APP与插件下载</a>#un未知
+<a class="item" href="/gitee-stars">Gitee 封面人物</a>#un未知
+<a class="item" href="/gvp">GVP 项目</a>#un未知
+<a class="item" rel="nofollow" href="https://blog.gitee.com/">Gitee 博客</a>#un未知
+<a class="item" href="/enterprises#un未知
+<a class="item" href="https://gitee.com/features/gitee-go">Gitee 持续集成</a>#un未知
+<a class="item" href="/api/v5/swagger">OpenAPI</a>#un未知
+<a class="item" href="https://gitee.com/oschina/mcp-gitee">MCP Server</a>#un未知
+<a class="item" href="https://help.gitee.com">帮助文档</a>#un未知
+<a class="item" href="/self_services">在线自助服务</a>#un未知
+<a class="item" href="/help/articles/4378">更新日志</a>#un未知
+<a class="item" href="/about_us">关于我们</a>#un未知
+<a class="item" rel="nofollow" href=" https://gitee.com/oschina/jobs">加入我们</a>#un未知
+<a class="item" href="/terms">使用条款</a>#un未知
+<a class="item" href="/oschina/git-osc/issues">意见建议</a>#un未知
+<a class="item" href="/links.html">合作伙伴</a>#un未知
+<div class='eight wide column right aligned followus git-footer-right'>#un未知
+<div class='qrcode mr-1'>#un未知
+<div class='qrcode-box'>#un未知
+<img alt="技术交流QQ群" src="https://cn-assets.gitee.com/assets/communication_QR-3b8de44bedfd3cf6c52c96b1a05771c6.png" />#un未知
+<p class='mt-1 mini_app-text'>技术交流QQ群</p>#un未知
+<div class='qrcode'>#un未知
+<img alt="微信服务号" class="weixin-qr" src="https://cn-assets.gitee.com/assets/weixin_QR-853f852365876b5f318023e95cbbfdb6.png" />#un未知
+<p class='mt-1 weixin-text'>微信服务号</p>#un未知
+<div class='phone-and-qq column'>#un未知
+<div class='ui list official-support-container'>#un未知
+<div class='item'></div>#un未知
+<div class='item mail-and-zhihu'>#un未知
+<a rel="nofollow" href="mailto: client@oschina.cn"><i class='iconfont icon-msg-mail'></i>#un未知
+<span id='git-footer-email'>client#un未知
+<div class='item tel'>#un未知
+<a>#un未知
+<i class='iconfont icon-tel'></i>#un未知
+<span>企业版在线使用：400-606-0201</span>#un未知
+<a class='d-flex'>#un未知
+<i class='iconfont icon-tel mt-05 mr-05'></i>#un未知
+<span>专业版私有部署：</span>#un未知
+赖经理 13058176526#un未知
+<div class='bottombar'>#un未知
+<div class='ui d-flex d-flex-between'>#un未知
+<div class='seven wide column partner d-flex'>#un未知
+<div class='open-atom d-flex-center'>#un未知
+<img class="logo-openatom mr-1" alt="开放原子开源基金会" src="https://cn-assets.gitee.com/assets/logo-openatom-new-955174a984c899d2e230d052bdc237cf.svg" />#un未知
+<a target="_blank" rel="nofollow" href="https://www.openatom.org/">开放原子开源基金会</a>#un未知
+<div class='sub-title ml-1'>合作代码托管平台</div>#un未知
+<div class='report-12377 d-flex-center ml-3'>#un未知
+<img class="report-12377__logo mr-1" alt="违法和不良信息举报中心" src="https://cn-assets.gitee.com/assets/12377@2x-1aa42ed2d2256f82a61ecf57be1ec244.png" />#un未知
+<a target="_blank" rel="nofollow" href="https://www.12377.cn">违法和不良信息举报中心</a>#un未知
+<div class='copyright ml-3'>#un未知
+<a rel="nofollow" href="http://beian.miit.gov.cn/">京ICP备2025119063号</a>#un未知
+<div class='beian d-flex-center ml-2'>#un未知
+<img class="report-12377__logo ml-1" alt="京公网安备11011502039387号" src="https://cn-assets.gitee.com/assets/beian-30b2e25c5da148efae50f89073b26816.png" />#un未知
+<a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn/">京公网安备11011502039387号</a>#un未知
+<div class='nine wide column right aligned'>#un未知
+<i class='icon world'></i>#un未知
+<a href="/language/zh-CN">简 体</a>#un未知
+/#un未知
+<a href="/language/zh-TW">繁 體</a>#un未知
+<a href="/language/en">English</a>#un未知
+</footer>#un未知
+var officialEmail = $('#un未知
+$('#un未知
+$('#un未知
+window.gon.popover_card_locale = {#un未知
+follow:"关注",#un未知
+unfollow:"已关注",#un未知
+gvp_title: "GVP - Gitee 最有价值开源项目",#un未知
+project: "项目",#un未知
+org: "开源组织",#un未知
+member: "",#un未知
+author: "作者",#un未知
+user_blocked: "该用户已被屏蔽或已注销",#un未知
+net_error: "网络错误",#un未知
+unknown_exception: "未知异常"#un未知
+window.gon.select_message = {#un未知
+placeholder: "请输入个人空间地址或完整的邮箱地址"#un未知
+<script src="https://cn-assets.gitee.com/webpacks/popover_card-9afe4ce3f1b03daa4ed4.bundle.js"></script>#un未知
+<link rel="stylesheet" media="all" href="https://cn-assets.gitee.com/webpacks/css/gitee_nps-ae0dbee40f6ddc72015a.css" />#un未知
+<script src="https://cn-assets.gitee.com/webpacks/gitee_nps-03ff804099144a49b055.bundle.js"></script>#un未知
+<div class='side-toolbar'>#un未知
+<div class='button toolbar-help'>#un未知
+<i class='iconfont icon-help'></i>#un未知
+<div class='ui popup left center dark'>点此查找更多帮助</div>#un未知
+<div class='toolbar-help-dialog'>#un未知
+<div class='toolbar-dialog-header'>#un未知
+<h3 class='toolbar-dialog-title'>搜索帮助</h3>#un未知
+<form class="toolbar-help-search-form" action="/help/load_keywords_data" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#un未知
+<div class='ui icon input fluid toolbar-help-search'>#un未知
+<input name='keywords' placeholder='请输入产品名称或问题' type='text'>#un未知
+<i class='icon search'></i>#un未知
+<i class='iconfont icon-close toolbar-dialog-close-icon'></i>#un未知
+<div class='toolbar-dialog-content'>#un未知
+<div class='toolbar-help-hot-search'>#un未知
+<div class='toolbar-roll'>#un未知
+<a class="init active" title="Git 命令在线学习" href="https://help.gitee.com/learn-git-branching/?utm_source==gitee-help-widget"><i class='Blue icon icon-command iconfont'></i>#un未知
+<span>Git 命令在线学习</span>#un未知
+</a><a class="init " title="如何在 Gitee 导入 GitHub 仓库" href="https://gitee.com/help/articles/4261?utm_source==gitee-help-widget"><i class='icon icon-clipboard iconfont orange'></i>#un未知
+<span>如何在 Gitee 导入 GitHub 仓库</span>#un未知
+<div class='toolbar-list'>#un未知
+<div class='toolbar-list-item'>#un未知
+<a href="/help/articles/4114">Git 仓库基础操作</a>#un未知
+<a href="/help/articles/4166">企业版和社区版功能对比</a>#un未知
+<a href="/help/articles/4191">SSH 公钥设置</a>#un未知
+<a href="/help/articles/4194">如何处理代码冲突</a>#un未知
+<a href="/help/articles/4232">仓库体积过大，如何减小？</a>#un未知
+<a href="/help/articles/4279">如何找回被删除的仓库数据</a>#un未知
+<a href="/help/articles/4283">Gitee 产品配额说明</a>#un未知
+<a href="/help/articles/4284">GitHub仓库快速导入Gitee及同步更新</a>#un未知
+<a href="/help/articles/4328">什么是 Release（发行版）</a>#un未知
+<a href="/help/articles/4354">将 PHP 项目自动发布到 packagist.org</a>#un未知
+<div class='toolbar-help-search-reseult'></div>#un未知
+var opt = { position: 'left center'};#un未知
+var $helpSideToolbar = $('.button.toolbar-help');#un未知
+var $toolbarRoll = $('.toolbar-roll');#un未知
+$helpSideToolbar.popup(opt).popup({lastResort:'left center'})#un未知
+$helpSideToolbar.popup({lastResort:'left center'}).popup('show', opt);#un未知
+$helpSideToolbar.popup('hide', opt);#un未知
+if ($toolbarRoll.length) {#un未知
+setInterval(function() {#un未知
+var $nextActiveLink = $toolbarRoll.find('a.active').next();#un未知
+if (!$nextActiveLink.length) {#un未知
+$nextActiveLink = $toolbarRoll.find('a:first-child');#un未知
+$nextActiveLink.attr('class', 'active').siblings().removeClass('active init');#un未知
+}, 5000);#un未知
+<div class='toolbar-appeal popup button'>#un未知
+<i class='iconfont icon-report'></i>#un未知
+<div class='ui popup dark'>#un未知
+仓库举报#un未知
+$('.toolbar-appeal').popup({ position: 'left center' });#un未知
+<div class='button gotop popup' id='gotop'>#un未知
+<i class='iconfont icon-top'></i>#un未知
+<div class='ui popup dark'>回到顶部</div>#un未知
+<div class='form modal normal-modal tiny ui' id='unlanding-complaint-modal'>#un未知
+登录提示#un未知
+<div class='container actions'>#un未知
+该操作需登录 Gitee 帐号，请先登录后再操作。#un未知
+<div class='ui orange icon large button ok'>#un未知
+立即登录#un未知
+没有帐号，去注册#un未知
+var $elm = $('.toolbar-appeal');#un未知
+$elm.on('click', function() {#un未知
+var modals = $("#un未知
+if (modals.length > 1) {#un未知
+modals.eq(0).modal('show');#un未知
+modals.modal('show');#un未知
+$("#un未知
+onDeny: function() {#un未知
+window.location.href = "/signup?from=";#un未知
+window.location.href = "/login?from=";#un未知
+.side-toolbar .bdsharebuttonbox a {#un未知
+font-size: 24px;#un未知
+color: white !important;#un未知
+opacity: 0.9;#un未知
+margin: 6px 6px 0px 6px;#un未知
+background-image: none;#un未知
+text-indent: 0;#un未知
+height: auto;#un未知
+width: auto;#un未知
+#un未知
+margin: 0px 20px 167px 0px !important;#un未知
+$('#un未知
+position: 'left center'#un未知
+Gitee.initSideToolbar({})#un未知
+this.__gac = {#un未知
+domain: 'www.oschina.net'#un未知
+<script src="https://cn-assets.gitee.com/webpacks/build_status-6c0a8a19b67c23fdc7fe.bundle.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/webpacks/scan_status-129dc7c4b730f50d9d38.bundle.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/webpacks/mermaid_render-e708d712dc28da655877.bundle.js"></script>#un未知
+<script src="https://cn-assets.gitee.com/webpacks/check_runs-2af5d367832761b64630.bundle.js"></script>#un未知
+</body>#un未知
+</html>#un未知
