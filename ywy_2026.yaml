@@ -1,0 +1,9 @@
+proxies:
+  - {name: "un未知44", type: vmess, server: 54d-bD0D-C3F111D0b879.664.QzZ.io, port: 443, uuid: 0507fbcd-b983-43a7-8e1d-2c561960ad4f, alterId: 0, cipher: auto}
+  - {name: "de德国51", type: vmess, server: 82.198.246.97, port: 180, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto}
+  - {name: "cn中国94", type: vmess, server: oss-4.qqa678.com, port: 47081, uuid: 9f8c122d-5b86-4c19-af87-64f458a88223, alterId: 0, cipher: auto}
+  - {name: "cn中国96", type: vmess, server: tunnel1.qqa678.com, port: 47083, uuid: 9f8c122d-5b86-4c19-af87-64f458a88223, alterId: 0, cipher: auto}
+  - {name: "un未知97", type: vmess, server: 4D41-b510-Fc35f2D7ECd7.664.qzz.io, port: 443, uuid: 0507fbcd-b983-43a7-8e1d-2c561960ad4f, alterId: 0, cipher: auto}
+  - {name: "de德国101", type: vmess, server: 82.198.246.97, port: 180, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto}
+  - {name: "de德国126", type: vmess, server: 82.198.246.97, port: 180, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto}
+  - {name: "vn越南135", type: vmess, server: 160.191.245.48, port: 58623, uuid: 8d74803e-aa74-47ef-e3ae-23eeaa96f89d, alterId: 0, cipher: auto}
