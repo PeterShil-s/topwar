@@ -1,43 +1,50 @@
 proxies:
-  - name: "un未知_18"
+  - name: "un未知_22"
     type: vmess
     server: vVVGGYU.irAN1912.DPDNS.oRG
     port: 443
     uuid: 4a7baca1-8048-4a91-8316-595b36657a54
     alterId: 0
     cipher: auto
-  - name: "un未知_19"
+  - name: "un未知_25"
+    type: vmess
+    server: fffffg.890602.pp.ua
+    port: 443
+    uuid: 4a7baca1-8048-4a91-8316-595b36657a54
+    alterId: 0
+    cipher: auto
+  - name: "un未知_27"
+    type: vmess
+    server: ffffv.2030.pp.ua
+    port: 443
+    uuid: fc3704d6-8e5e-443a-bd5b-20ec7cfbe990
+    alterId: 0
+    cipher: auto
+  - name: "un未知_30"
+    type: vmess
+    server: rr444.2030.pp.ua
+    port: 80
+    uuid: fc3704d6-8e5e-443a-bd5b-20ec7cfbe990
+    alterId: 0
+    cipher: auto
+  - name: "un未知_36"
+    type: vmess
+    server: ffvbg.7777125.xyz
+    port: 443
+    uuid: fc3704d6-8e5e-443a-bd5b-20ec7cfbe990
+    alterId: 0
+    cipher: auto
+  - name: "un未知_37"
     type: vmess
     server: YyYYuUI.iRAn1912.dpDNs.oRG
     port: 443
     uuid: 4a7baca1-8048-4a91-8316-595b36657a54
     alterId: 0
     cipher: auto
-  - name: "un未知_21"
+  - name: "un未知_39"
     type: vmess
-    server: hhhnmjk.191268.xyz
-    port: 80
-    uuid: b9bb332d-5e0d-41af-adac-49362dde8661
-    alterId: 0
-    cipher: auto
-  - name: "un未知_23"
-    type: vmess
-    server: iiik999.2030.pp.ua
+    server: eed4.7777125.xyz
     port: 443
-    uuid: b9bb332d-5e0d-41af-adac-49362dde8661
-    alterId: 0
-    cipher: auto
-  - name: "un未知_26"
-    type: vmess
-    server: llloooiu.191292.xyz
-    port: 443
-    uuid: b9bb332d-5e0d-41af-adac-49362dde8661
-    alterId: 0
-    cipher: auto
-  - name: "un未知_40"
-    type: vmess
-    server: hhhnmj.930.pp.ua
-    port: 443
-    uuid: b9bb332d-5e0d-41af-adac-49362dde8661
+    uuid: fc3704d6-8e5e-443a-bd5b-20ec7cfbe990
     alterId: 0
     cipher: auto
