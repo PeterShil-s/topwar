@@ -1,1 +1,29 @@
 proxies:
+  - name: "cn中国_01"
+    type: vmess
+    server: v30.hdacd.com
+    port: 30830
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    cipher: auto
+  - name: "cn中国_02"
+    type: vmess
+    server: v30.hdacd.com
+    port: 30830
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    cipher: auto
+  - name: "un未知_19"
+    type: vmess
+    server: ffffv.2030.pp.ua
+    port: 443
+    uuid: fc3704d6-8e5e-443a-bd5b-20ec7cfbe990
+    alterId: 0
+    cipher: auto
+  - name: "un未知_20"
+    type: vmess
+    server: 6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io
+    port: 443
+    uuid: 0c6b96bc-5e3a-4500-8497-6dead1965609
+    alterId: 0
+    cipher: auto
