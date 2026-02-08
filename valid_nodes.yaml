@@ -1,0 +1,16 @@
+proxies: []
+proxy-groups:
+- interval: 300
+  name: 自动选择
+  proxies: []
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+- name: 手动选择
+  proxies: []
+  type: select
+rules:
+- DOMAIN-SUFFIX,google.com,自动选择
+- DOMAIN-SUFFIX,github.com,自动选择
+- DOMAIN-KEYWORD,gstatic,自动选择
+- GEOIP,CN,DIRECT
+- MATCH,自动选择
